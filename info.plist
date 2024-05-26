@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>hthebmlvyznmry@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Uğur "vigo" Özyılmazel</string>
+	<key>description</key>
+	<string>Tailwind CSS Bundle</string>
+	<key>name</key>
+	<string>Tailwind CSS</string>
+	<key>uuid</key>
+	<string>AFED1FC2-EF12-4420-9C29-D18BAD9A098A</string>
+
+    <key>mainMenu</key>
+    <dict>
+        <key>items</key>
+        <array>
+            <string>c645187a-927d-4d59-84af-70e6cb63710b</string>
+        </array>
+        
+        <key>submenus</key>
+        <dict>
+            <key>c645187a-927d-4d59-84af-70e6cb63710b</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>8d38ebb8-a6dd-47c7-8148-6328f1edb36d</string>
+                    <string>247deda5-ba6e-4d85-ad2f-9ead802d87a2</string>
+                </array>
+                <key>name</key>
+                <string>Spacing</string>
+            </dict>
+            
+            <key>8d38ebb8-a6dd-47c7-8148-6328f1edb36d</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>D3926578-AF93-4F11-A3D3-95990732E1A4</string>
+                    <string>------------------------------------</string>
+                    <string>491D0431-C8DB-4DE8-8BC6-0496D85B4568</string>
+                    <string>22B7A5ED-F2B7-432A-96F2-FD9172494B46</string>
+                    <string>------------------------------------</string>
+                    <string>9BFFB16D-666B-4BE0-A5E7-F75BC262B39B</string>
+                    <string>CEE56EDE-8632-469E-8FA8-53F5C501604F</string>
+                    <string>7D687DFF-F0C2-4A55-8780-324C605FCD76</string>
+                    <string>65741E4E-6648-486D-9673-C124A2EC346A</string>
+                    <string>------------------------------------</string>
+                    <string>18C2755A-AAB2-428B-A6A1-5AEAA1113F5C</string>
+                    <string>------------------------------------</string>
+                    <string>92A18C42-29ED-438C-8606-76515856A32C</string>
+                    <string>FB4068BC-A744-41F1-8B48-B8BD2B54B7EA</string>
+                    <string>------------------------------------</string>
+                    <string>0D6CB64C-2642-47DA-AEFC-311E0DEF4F5B</string>
+                    <string>6638DA99-57CE-44F5-9922-BB990BF7E1F3</string>
+                    <string>C0CC0F24-1B9C-4B6B-B80B-E9784C047F00</string>
+                    <string>2438C2D0-F282-401C-A628-CD7A5A9FC8BC</string>
+                </array>
+                <key>name</key>
+                <string>Margin</string>
+            </dict>
+
+            <key>247deda5-ba6e-4d85-ad2f-9ead802d87a2</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>12b4b4a9-744a-4382-ad8f-a9f6b2d638bb</string>
+                    <string>------------------------------------</string>
+                    <string>5e1beaed-da64-4a8d-b372-69d9552ee49c</string>
+                    <string>0026c76a-b149-428d-8863-fd9867f0e77b</string>
+                    <string>------------------------------------</string>
+                    <string>b4db54a8-16d5-4cde-82c7-766798d90f1d</string>
+                    <string>3298f695-b5d5-45a7-baeb-9a3931b4803f</string>
+                    <string>de89d10f-0160-42bd-b366-c47ad0d8c637</string>
+                    <string>0e27bf10-5473-4ebe-95c0-b3cf2491e413</string>
+                </array>
+                <key>name</key>
+                <string>Padding</string>
+            </dict>
+        </dict>
+        
+    </dict>
+
+</dict>
+</plist>

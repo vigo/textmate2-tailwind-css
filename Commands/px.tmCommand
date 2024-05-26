@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby18 -wKU
+
+require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
+
+values = get_values("px")
+
+out = []
+values.each do |data|
+  out &lt;&lt; data[:name]
+end
+out &lt;&lt; "px-px"
+
+printf("${1|%s|}", out.join(","))
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>px (padding left + right)</string>
+	<key>outputCaret</key>
+	<string>interpolateByChar</string>
+	<key>outputFormat</key>
+	<string>snippet</string>
+	<key>outputLocation</key>
+	<string>atCaret</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>px</string>
+	<key>uuid</key>
+	<string>5e1beaed-da64-4a8d-b372-69d9552ee49c</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
