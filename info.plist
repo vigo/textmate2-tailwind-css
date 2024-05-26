@@ -17,12 +17,76 @@
     <dict>
         <key>items</key>
         <array>
-            <string>c645187a-927d-4d59-84af-70e6cb63710b</string>
-            <string>8b062819-6376-40b4-88ea-35b52f7d7148</string>
+            <string>1e7f88c3-aa9a-469a-b1cf-28b160db18f6</string><!-- Layout -->
+            <string>48574416-2a9e-41a0-b3f8-472596622e5e</string><!-- Sizing -->
+            <string>9434b2db-b395-4f46-8b53-b3920a722b5c</string><!-- Transforms -->
+            <string>d8e54ec2-15c3-441c-bb4b-8dafe74627ef</string><!-- Effects -->
+            <string>------------------------------------</string>
+            <string>c645187a-927d-4d59-84af-70e6cb63710b</string><!-- Spacing -->
+            <string>8b062819-6376-40b4-88ea-35b52f7d7148</string><!-- Typography -->
+            <string>d72e9fe7-5f8d-4243-ab82-eb411634202c</string><!-- Interactivity -->
+            <string>591d209c-3396-4572-95c4-a100e2b8fb6d</string><!-- Filters -->
+            <string>------------------------------------</string>
+            <string>a0b03394-18d5-4bdd-a837-7e11042c9b3c</string><!-- Flex and Grid -->
+            <string>64cf07e4-dac4-413c-8148-e6935c215b55</string><!-- Backgrounds -->
+            <string>130737c7-a171-487c-ba37-8685a15d4311</string><!-- SVG -->
+            <string>4ea546b5-9cb3-4386-960e-be8134d73f9d</string><!-- Accessibility -->
+            <string>------------------------------------</string>
+            <string>41c8ff82-547d-4d99-9db3-9a141e507eab</string><!-- Borders -->
+            <string>2f77dd3a-3de9-4e78-9493-4bddc66fbc0b</string><!-- Transitions and Animation -->
+            <string>23a69011-a945-4866-8715-908f231a5b16</string><!-- Tables -->
         </array>
         
         <key>submenus</key>
         <dict>
+
+            <!-- Layout -->
+            <key>1e7f88c3-aa9a-469a-b1cf-28b160db18f6</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Layout</string>
+            </dict>
+            <!-- Layout -->
+
+            <!-- Sizing -->
+            <key>48574416-2a9e-41a0-b3f8-472596622e5e</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Sizing</string>
+            </dict>
+            <!-- Sizing -->
+
+            <!-- Transforms -->
+            <key>9434b2db-b395-4f46-8b53-b3920a722b5c</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Transforms</string>
+            </dict>
+            <!-- Transforms -->
+
+            <!-- Effects -->
+            <key>d8e54ec2-15c3-441c-bb4b-8dafe74627ef</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Effects</string>
+            </dict>
+            <!-- Effects -->
 
             <!-- Spacing -->
             <key>c645187a-927d-4d59-84af-70e6cb63710b</key>
@@ -145,6 +209,114 @@
                 <string>Typography</string>
             </dict>
             <!-- Typography -->
+            
+            <!-- Interactivity -->
+            <key>d72e9fe7-5f8d-4243-ab82-eb411634202c</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Interactivity</string>
+            </dict>
+            <!-- Interactivity -->
+
+            <!-- Filters -->
+            <key>591d209c-3396-4572-95c4-a100e2b8fb6d</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Filters</string>
+            </dict>
+            <!-- Filters -->
+
+            <!-- Flex and Grid -->
+            <key>a0b03394-18d5-4bdd-a837-7e11042c9b3c</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Flex and Grid</string>
+            </dict>
+            <!-- Flex and Grid -->
+
+            <!-- Backgrounds -->
+            <key>64cf07e4-dac4-413c-8148-e6935c215b55</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Backgrounds</string>
+            </dict>
+            <!-- Backgrounds -->
+
+            <!-- SVG -->
+            <key>130737c7-a171-487c-ba37-8685a15d4311</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>SVG</string>
+            </dict>
+            <!-- SVG -->
+
+            <!-- Accessibility -->
+            <key>4ea546b5-9cb3-4386-960e-be8134d73f9d</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Accessibility</string>
+            </dict>
+            <!-- Accessibility -->
+
+            <!-- Borders -->
+            <key>41c8ff82-547d-4d99-9db3-9a141e507eab</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Borders</string>
+            </dict>
+            <!-- Borders -->
+
+            <!-- Transitions and Animation -->
+            <key>2f77dd3a-3de9-4e78-9493-4bddc66fbc0b</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Transitions and Animation</string>
+            </dict>
+            <!-- Transitions and Animation -->
+
+            <!-- Tables -->
+            <key>23a69011-a945-4866-8715-908f231a5b16</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    
+                </array>
+                <key>name</key>
+                <string>Tables</string>
+            </dict>
+            <!-- Tables -->
 
         </dict>
         
