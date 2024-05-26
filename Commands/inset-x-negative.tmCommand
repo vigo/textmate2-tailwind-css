@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby18 -wKU
+
+require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
+
+values = get_values("-inset-x")
+
+out = []
+values.each do |data|
+  out &lt;&lt; data[:name]
+end
+out &lt;&lt; "-inset-x-full"
+out &lt;&lt; "-inset-x-1/2"
+out &lt;&lt; "-inset-x-2/3"
+out &lt;&lt; "-inset-x-1/4"
+out &lt;&lt; "-inset-x-3/4"
+
+
+printf("${1|%s|}", out.join(","))
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>Inset - X (Negative)</string>
+	<key>outputCaret</key>
+	<string>interpolateByChar</string>
+	<key>outputFormat</key>
+	<string>snippet</string>
+	<key>outputLocation</key>
+	<string>atCaret</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>inset</string>
+	<key>uuid</key>
+	<string>8890f2c4-9e3a-4577-9a96-1fe14f9fad49</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

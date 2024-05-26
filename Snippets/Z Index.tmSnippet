@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>z-${1|0,10,20,30,40,auto|}</string>
+	<key>name</key>
+	<string>Z Index</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>zind</string>
+	<key>uuid</key>
+	<string>AC3AA23D-50C0-4B7B-BFFA-9B48F1CDBB45</string>
+</dict>
+</plist>

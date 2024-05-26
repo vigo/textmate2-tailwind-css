@@ -42,6 +42,22 @@ def get_values(class_name)
   values
 end
 
+def get_plain_values
+  values = []
+
+  METRICS.each do |n|
+    rem = n * 0.25
+    px = rem * ROOT_SIZE
+    values << {
+      :name => "%s" % n,
+      :rem => rem,
+      :px => px,
+    }
+  end
+
+  values
+end
+
 def get_size_values(class_name)
   values = []
   

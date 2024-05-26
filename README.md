@@ -28,6 +28,20 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 | `braf` | Break After classes |
 | `brbe` | Break Before classes |
 | `brin` | Break Inside classes |
+| `bdbr` | Box Decoration Break classes |
+| `bs` | Border Sizing classes |
+| `dis` | Display classes |
+| `flo` | Float classes |
+| `cl` | Float classes |
+| `isl` | Isolation classes |
+| `objf` | Object Fit classes |
+| `objp` | Object Position classes |
+| `overf` | Overflow classes |
+| `overs` | Overscroll Behavior classes |
+| `pos` | Position classes |
+| `inset` | Top / Right / Bottom / Left (insets) |
+| `vis` | Visibility classes |
+| `zind` | Z-Index classes |
 
 ---
 
