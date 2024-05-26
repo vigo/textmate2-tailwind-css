@@ -74,8 +74,10 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `boxs` | Box Shadow classes |
+| `opa` | Opacity classes |
+| `mixb` | Mix Blend Mode classes |
+| `backb` | Background Blend Mode classes |
 
 ---
 

@@ -141,7 +141,15 @@
             <dict>
                 <key>items</key>
                 <array>
-                    
+                    <string>------------------------------------</string>
+                    <string>4CAEAD59-824F-45A1-8E1C-38487D6DB04F</string>
+                    <string>FE649ABB-2692-4B2B-A8A0-F8E72FC1D723</string>
+                    <string>------------------------------------</string>
+                    <string>B1BB3974-884C-4D54-83B5-AE7B287A03BD</string>
+                    <string>------------------------------------</string>
+                    <string>EFC6FC36-C241-447D-B987-F67968293DFF</string>
+                    <string>F84445C0-5D6A-4D25-8FDD-525E0F640939</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Effects</string>
