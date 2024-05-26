@@ -159,8 +159,17 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `appe` | Appearance |
+| `cur` | Cursor classes |
+| `po` | Pointer Events |
+| `res` | Resize classes |
+| `scrob` | Scroll Behavior classes |
+| `scrom` | Scroll Margins (regular, mx, my, mt, mr, mb, ml) classes |
+| `scrop` | Scroll Paddings (regular, mx, my, mt, mr, mb, ml) classes |
+| `scrosnap` | Scroll Snap Align/Stop/Type classes |
+| `tou` | Touch Action classes |
+| `usel` | User Select classes |
+| `willc` | Will Change classes |
 
 ---
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>touch-${1|auto,none,pan-x,pan-left,pan-right,pan-y,pan-up,pan-down,pinch-zoom,manipulation|}</string>
+	<key>name</key>
+	<string>Touch Action</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tou</string>
+	<key>uuid</key>
+	<string>09D69B01-DA2D-4708-9D20-B621003BA12E</string>
+</dict>
+</plist>

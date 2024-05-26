@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby18 -wKU
+
+require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
+
+values = get_values("scroll-mb")
+
+out = []
+values.each do |data|
+  out &lt;&lt; data[:name]
+end
+out &lt;&lt; "scroll-mb-px"
+
+printf("${1|%s|}", out.join(","))
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>Scroll Margin (mb)</string>
+	<key>outputCaret</key>
+	<string>interpolateByChar</string>
+	<key>outputFormat</key>
+	<string>snippet</string>
+	<key>outputLocation</key>
+	<string>atCaret</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>scrom</string>
+	<key>uuid</key>
+	<string>e48f75a4-df88-4717-9c2c-50f479b5bb16</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
