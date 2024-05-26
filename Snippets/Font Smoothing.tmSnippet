@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1|antialiased,subpixel-antialiased|}</string>
+	<key>name</key>
+	<string>Font Smoothing</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>fsm</string>
+	<key>uuid</key>
+	<string>3A042D5A-EF21-4F76-B1E3-470463203404</string>
+</dict>
+</plist>

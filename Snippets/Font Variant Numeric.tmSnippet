@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1|normal-nums,ordinal,slashed-zero,lining-nums,oldstyle-nums,proportional-nums,tabular-nums,diagonal-fractions,stacked-fractions|}</string>
+	<key>name</key>
+	<string>Font Variant Numeric</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>fvn</string>
+	<key>uuid</key>
+	<string>72FA9EF6-0FA3-4827-A040-2831CEC66CCF</string>
+</dict>
+</plist>

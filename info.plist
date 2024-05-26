@@ -18,11 +18,13 @@
         <key>items</key>
         <array>
             <string>c645187a-927d-4d59-84af-70e6cb63710b</string>
+            <string>8b062819-6376-40b4-88ea-35b52f7d7148</string>
         </array>
         
         <key>submenus</key>
         <dict>
 
+            <!-- Spacing -->
             <key>c645187a-927d-4d59-84af-70e6cb63710b</key>
             <dict>
                 <key>items</key>
@@ -34,7 +36,7 @@
                 <key>name</key>
                 <string>Spacing</string>
             </dict>
-            
+
             <key>8d38ebb8-a6dd-47c7-8148-6328f1edb36d</key>
             <dict>
                 <key>items</key>
@@ -94,6 +96,28 @@
                 <key>name</key>
                 <string>Space Between</string>
             </dict>
+            <!-- Spacing -->
+
+            <!-- Typography -->
+            <key>8b062819-6376-40b4-88ea-35b52f7d7148</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>0796B351-EF83-4E46-BF41-3878B4D66DBE</string>
+                    <string>9DC0B7BE-204D-4F1D-B958-1B735F089580</string>
+                    <string>3A042D5A-EF21-4F76-B1E3-470463203404</string>
+                    <string>55AD5583-6CAA-4132-9595-6F826AD05C9F</string>
+                    <string>5CC9BB3B-F0EA-4839-8350-96AFE0A8320E</string>
+                    <string>72FA9EF6-0FA3-4827-A040-2831CEC66CCF</string>
+                    <string>3FEE3160-479E-43AE-9328-736B3D549989</string>
+                    <string>B22FC00E-323F-4AD2-9586-BBC6BD32C1F5</string>
+                    <string>3CD78B25-DAB0-4359-9252-C39C5B98ACD7</string>
+                </array>
+                <key>name</key>
+                <string>Typography</string>
+            </dict>
+            <!-- Typography -->
+
         </dict>
         
     </dict>

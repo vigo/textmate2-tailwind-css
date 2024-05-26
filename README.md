@@ -4,6 +4,8 @@
 
 @wip
 
+Values are taken from https://tailwindcomponents.com/cheatsheet/ (v3.0.24)
+
 ---
 
 ## Installation
@@ -55,6 +57,20 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 | `sy` | `space-y` classes such as; `space-y-0` ... |
 | `-sx` | Negative `space-x` classes such as; `-space-x-0` ... |
 | `-sy` | Negative `space-y` classes such as; `-space-y-0` ... |
+
+### Typography
+
+| Prefix | Description |
+|:---|:---|
+| `ff` | Font Family, `font-sans`, `font-serif`, `font-mono` classes |
+| `fs` | Text Size / Font Size `text-...` classes |
+| `fsm` | Font Smoothing `antialiased`, `subpixel-antialiased` classes |
+| `fst` | Font Style `italic`, `not-italic` classes |
+| `fw` | Font Weight `font-extralight` ... classes |
+| `fvn` | Font Variant Numeric `normal-nums` ... classes |
+| `lsp` | Letter Spacing `tracking-tighter` ... classes |
+| `lh` | Line Height `none`, `tight` ... classes |
+| `lis` | List Style Type and Position `none`, `disc` ... classes |
 
 ---
 
