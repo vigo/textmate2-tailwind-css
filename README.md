@@ -18,6 +18,46 @@ Values are taken from https://tailwindcomponents.com/cheatsheet/ (v3.0.24)
 
 Type prefix and hit <kbd>⇥</kbd> (TAB)
 
+### Layout
+
+| Prefix | Description |
+|:---|:---|
+| `ar` | Aspect Ratio classes |
+| `con` | Container with responsive variants |
+| `cols` | Columns with different variants |
+| `braf` | Break After classes |
+| `brbe` | Break Before classes |
+| `brin` | Break Inside classes |
+
+---
+
+### Sizing
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Transforms
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Effects
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
 ### Spacing / Margin Modifiers
 
 | Prefix | Description |
@@ -37,6 +77,8 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 | `-mb` | Negative `margin-bottom:` classes such as; `-mb-0` ... |
 | `-ml` | Negative `margin-left:` classes such as; `-ml-0` ... |
 
+---
+
 ### Spacing / Padding Modifiers
 
 | Prefix | Description |
@@ -49,6 +91,8 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 | `pb` | `padding-bottom:` classes such as; `pb-0` ... |
 | `pl` | `padding-left:` classes such as; `pl-0` ... |
 
+---
+
 ### Spacing / Space Between
 
 | Prefix | Description |
@@ -57,6 +101,8 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 | `sy` | `space-y` classes such as; `space-y-0` ... |
 | `-sx` | Negative `space-x` classes such as; `-space-x-0` ... |
 | `-sy` | Negative `space-y` classes such as; `-space-y-0` ... |
+
+---
 
 ### Typography
 
@@ -83,6 +129,104 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 | `wsp` | White Space classes |
 | `wb` | Word Break classes |
 | `cnt` | Content classes |
+
+---
+
+### Interactivity
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Filters
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Flex and Grid
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Backgrounds
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### SVG
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### SVG
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Accessibility
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Borders
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Transitions and Animation
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Tables
+
+| Prefix | Description |
+|:---|:---|
+
+@wip
+
+---
+
+### Utilities
+
+| Prefix | Description |
+|:---|:---|
+| `rv` | Responsive Variants such as `sm:`, `md:` ... |
 
 ---
 
