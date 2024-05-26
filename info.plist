@@ -22,12 +22,14 @@
         
         <key>submenus</key>
         <dict>
+
             <key>c645187a-927d-4d59-84af-70e6cb63710b</key>
             <dict>
                 <key>items</key>
                 <array>
                     <string>8d38ebb8-a6dd-47c7-8148-6328f1edb36d</string>
                     <string>247deda5-ba6e-4d85-ad2f-9ead802d87a2</string>
+                    <string>36b8578a-e246-4166-b8b7-5d5b8c74fec7</string>
                 </array>
                 <key>name</key>
                 <string>Spacing</string>
@@ -77,6 +79,20 @@
                 </array>
                 <key>name</key>
                 <string>Padding</string>
+            </dict>
+
+            <key>36b8578a-e246-4166-b8b7-5d5b8c74fec7</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>9a85d364-b2db-4fb7-9013-22700c9234e7</string>
+                    <string>297dd8f1-bd2a-4e92-92d8-312626fb4ae5</string>
+                    <string>------------------------------------</string>
+                    <string>ec08d1fb-db6e-4667-8daa-b59fcd8a99e9</string>
+                    <string>ef8157a1-3631-4bbd-9005-9b14ac16e754</string>
+                </array>
+                <key>name</key>
+                <string>Space Between</string>
             </dict>
         </dict>
         
