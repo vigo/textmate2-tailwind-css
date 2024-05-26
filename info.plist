@@ -97,7 +97,15 @@
             <dict>
                 <key>items</key>
                 <array>
-                    
+                    <string>------------------------------------</string>
+                    <string>22296F74-5F19-4088-A2B1-8D700AAA65A1</string>
+                    <string>438D1289-757D-409F-907B-F429F155A734</string>
+                    <string>A3D96338-51DA-4601-AAE4-C329D270A5CD</string>
+                    <string>------------------------------------</string>
+                    <string>05F93989-6556-42C7-BDF6-BD54FAC41A5C</string>
+                    <string>D7F5DE0D-4733-44A8-AB32-6EB6547CFEA0</string>
+                    <string>FBAC3900-83F8-40CF-A157-AC8BA608720A</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Sizing</string>
