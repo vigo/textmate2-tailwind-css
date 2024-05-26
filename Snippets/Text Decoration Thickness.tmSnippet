@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>decoration-${1|auto,from-font,0,1,2,4,8|}</string>
+	<key>name</key>
+	<string>Text Decoration Thickness</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>td</string>
+	<key>uuid</key>
+	<string>F748A0B4-915D-449A-B5A4-1BC9A059FFA6</string>
+</dict>
+</plist>

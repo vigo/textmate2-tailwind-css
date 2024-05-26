@@ -62,15 +62,27 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `ff` | Font Family, `font-sans`, `font-serif`, `font-mono` classes |
-| `fs` | Text Size / Font Size `text-...` classes |
-| `fsm` | Font Smoothing `antialiased`, `subpixel-antialiased` classes |
-| `fst` | Font Style `italic`, `not-italic` classes |
-| `fw` | Font Weight `font-extralight` ... classes |
-| `fvn` | Font Variant Numeric `normal-nums` ... classes |
-| `lsp` | Letter Spacing `tracking-tighter` ... classes |
-| `lh` | Line Height `none`, `tight` ... classes |
-| `lis` | List Style Type and Position `none`, `disc` ... classes |
+| `ff` | Font Family classes |
+| `fs` | Text Size / Font Size classes |
+| `fsm` | Font Smoothing classes |
+| `fst` | Font Style classes |
+| `fw` | Font Weight classes |
+| `fvn` | Font Variant Numeric classes |
+| `lsp` | Letter Spacing classes |
+| `lh` | Line Height classes |
+| `lis` | List Style Type and Position classes |
+| `tc` | Basic styles classes |
+| `ta` | Text Align classes |
+| `tc` | Text Colors classes |
+| `td` | Text Decoration, Style and Thickness classes |
+| `tuo` | Text Underline Offset classes |
+| `tt` | Text Transform classes |
+| `to` | Text Overflow classes |
+| `ti` | Text Indent classes |
+| `va` | Vertical Align classes |
+| `wsp` | White Space classes |
+| `wb` | Word Break classes |
+| `cnt` | Content classes |
 
 ---
 

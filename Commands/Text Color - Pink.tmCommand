@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby18 -wKU
+
+require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
+
+values = get_color_values("pink")
+
+printf("text-${1|%s|}", values.join(","))
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>Text Color - Pink</string>
+	<key>outputCaret</key>
+	<string>interpolateByChar</string>
+	<key>outputFormat</key>
+	<string>snippet</string>
+	<key>outputLocation</key>
+	<string>atCaret</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tc</string>
+	<key>uuid</key>
+	<string>7fed89ad-fec4-4769-9ca6-d74806fdf31c</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
