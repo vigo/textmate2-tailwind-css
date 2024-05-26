@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>scale-x-${1|0,50,75,90,95,100,105,110,125,150|}</string>
+	<key>name</key>
+	<string>Scale - X</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>scx</string>
+	<key>uuid</key>
+	<string>0A5524B3-C841-4698-A472-2D9C2B4DB36C</string>
+</dict>
+</plist>

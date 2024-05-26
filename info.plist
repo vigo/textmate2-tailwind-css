@@ -117,7 +117,19 @@
             <dict>
                 <key>items</key>
                 <array>
-                    
+                    <string>------------------------------------</string>
+                    <string>1A2FCFB7-46A8-4CCA-9ECE-E6CC6691DC08</string>
+                    <string>0A5524B3-C841-4698-A472-2D9C2B4DB36C</string>
+                    <string>B3F282A1-9CA0-48EB-993A-2E0E4087D365</string>
+                    <string>------------------------------------</string>
+                    <string>42A7E933-5518-486B-B362-D7DBE40D46DD</string>
+                    <string>------------------------------------</string>
+                    <string>635F5789-C9ED-425B-92E3-7D8DB09A331A</string>
+                    <string>AAE60B53-61DE-43C3-8367-4645F9FECBE9</string>
+                    <string>E442990B-AAB8-496B-9F74-173EC9CA1ACE</string>
+                    <string>------------------------------------</string>
+                    <string>6A87D327-CED3-4D31-934A-E0E5C35602E9</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Transforms</string>

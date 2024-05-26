@@ -49,8 +49,8 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `w` | Width classes (regular/min/max) classes |
+| `h` | Height classes (regular/min/max) classes |
 
 ---
 
@@ -58,8 +58,15 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
+| `sc` | Scale classes |
+| `scx` | Scale-X classes |
+| `scy` | Scale-y classes |
+| `rot` | Rotate classes |
+| `tx` | Translate-X classes |
+| `ty` | Translate-Y classes |
+| `sk` | Skew X or Y classes |
+| `tro` | Transform Origin classes |
 
-@wip
 
 ---
 
