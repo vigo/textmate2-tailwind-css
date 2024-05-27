@@ -194,8 +194,25 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `flg-flb` | Flex Basis classes |
+| `flg-fld` | Flex Direction classes |
+| `flg-flw` | Flex Wrap classes |
+| `flg-fl` | Flex classes |
+| `flg-flgs` | Flex Grow/Shrink classes |
+| `flg-flo` | Flex Order classes |
+| `flg-gcol` | Grid Template Columns / Start / End classes |
+| `flg-grow` | Grid Template Rows / Start / End classes |
+| `flg-ga` | Grid Auto Flow / Columns / Rows classes |
+| `flg-gap` | Gap / Gap X / Gap Y classes |
+| `flg-jc` | Justify Content classes |
+| `flg-ji` | Justify Items classes |
+| `flg-js` | Justify Self classes |
+| `flg-ac` | Align Content classes |
+| `flg-ai` | Align Items classes |
+| `flg-as` | Align Self classes |
+| `flg-pc` | Place Content classes |
+| `flg-pi` | Place Items classes |
+| `flg-ps` | Place Self classes |
 
 ---
 

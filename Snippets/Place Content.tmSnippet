@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:place-content-${1|center,start,end,between,around,evenly,baseline,stretch|}}</string>
+	<key>name</key>
+	<string>Place Content</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>flg-pc</string>
+	<key>uuid</key>
+	<string>85A90A36-5D62-41B1-BDA7-C4BFCBA79B2D</string>
+</dict>
+</plist>

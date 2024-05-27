@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:auto-cols-${1|auto,min,max,fr|}}</string>
+	<key>name</key>
+	<string>Grid Auto Columns</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>flg-ga</string>
+	<key>uuid</key>
+	<string>0A862A98-8B0C-49C8-855C-D9D030BADFB2</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:${1|flex-row,flex-row-reverse,flex-col,flex-col-reverse|}}</string>
+	<key>name</key>
+	<string>Flex Direction</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>flg-fld</string>
+	<key>uuid</key>
+	<string>E2E0FE1C-1187-479D-AF43-A7B37F4BCFB6</string>
+</dict>
+</plist>

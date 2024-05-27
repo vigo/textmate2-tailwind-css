@@ -23,9 +23,6 @@ SIZES = {
   },
 }
 
-# COLORS_WITH_SCALE = [:gray, :red, :yellow, :green, :blue, :indogo, :purple, :pink]
-
-
 def get_values(class_name)
   values = []
 

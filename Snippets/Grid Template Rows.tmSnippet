@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:grid-rows-${1|1,2,3,4,5,6,7,8|}}</string>
+	<key>name</key>
+	<string>Grid Template Rows</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>flg-grow</string>
+	<key>uuid</key>
+	<string>3EBA1077-2A1F-4308-8669-EFA322DD1C37</string>
+</dict>
+</plist>
