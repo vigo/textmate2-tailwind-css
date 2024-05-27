@@ -220,8 +220,7 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `bg` | Background Attachment classes |
 
 ---
 

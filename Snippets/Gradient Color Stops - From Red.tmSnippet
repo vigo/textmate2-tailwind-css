@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:from-red-${1|50,100,200,300,400,500,600,700,800,900,950|}}</string>
+	<key>name</key>
+	<string>Gradient Color Stops - From Red</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bg</string>
+	<key>uuid</key>
+	<string>17e289de-783e-4b1c-a3d2-48a45452c22f</string>
+</dict>
+</plist>
