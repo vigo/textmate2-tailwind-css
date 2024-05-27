@@ -230,8 +230,8 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `svg-fill` | SVG Fill related classes |
+| `svg-stroke` | SVG Stroke related classes |
 
 ---
 

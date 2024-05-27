@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:stroke-${1|0,1,2|}}</string>
+	<key>name</key>
+	<string>SVG Stroke - Width</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>svg-stroke</string>
+	<key>uuid</key>
+	<string>75DD865E-56A9-41E3-8C3F-0E456D85866B</string>
+</dict>
+</plist>

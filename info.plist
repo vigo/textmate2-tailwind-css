@@ -502,7 +502,14 @@
             <dict>
                 <key>items</key>
                 <array>
-                    
+                    <string>------------------------------------</string>
+                    <string>5ED5CAD7-CB49-4E62-919E-CDFE57411ECD</string>
+                    <string>93E67756-DEB6-43FD-BBE6-7F22A6738BA5</string>
+                    <string>------------------------------------</string>
+                    <string>9921B194-AD9E-42C1-9414-5272B1E17416</string>
+                    <string>E877A5E4-9BED-43F9-BD6F-5F021FD5232E</string>
+                    <string>75DD865E-56A9-41E3-8C3F-0E456D85866B</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>SVG</string>
