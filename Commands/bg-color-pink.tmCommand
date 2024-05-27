@@ -28,7 +28,7 @@ printf("${2:bg-${1|%s|}}", values.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>bgc</string>
+	<string>bg-c</string>
 	<key>uuid</key>
 	<string>1523f0a7-28f9-4b54-8ffa-715ea70a194b</string>
 	<key>version</key>

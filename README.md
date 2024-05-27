@@ -221,8 +221,8 @@ with `l-`, same applies to others...
 | Prefix | Description |
 |:---|:---|
 | `bg` | Backgrounds related classes |
-| `bgc` | Background Colors related classes |
-| `bggs` | Background Gradient Stop Colors related classes |
+| `bg-c` | Background Colors related classes |
+| `bg-gs` | Background Gradient Stop Colors related classes |
 
 ---
 
@@ -232,15 +232,6 @@ with `l-`, same applies to others...
 |:---|:---|
 | `svg-fill` | SVG Fill related classes |
 | `svg-stroke` | SVG Stroke related classes |
-
----
-
-### SVG
-
-| Prefix | Description |
-|:---|:---|
-
-@wip
 
 ---
 
