@@ -32,7 +32,7 @@ printf("${1|,-|}${2|top,right,bottom,left|}-${3|%s|}", out.join(","))</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>inset</string>
+	<string>l-inset</string>
 	<key>uuid</key>
 	<string>a0b40624-ed88-4902-beab-76de3758a27f</string>
 	<key>version</key>

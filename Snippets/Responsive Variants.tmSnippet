@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>rv</string>
+	<string>uti-rv</string>
 	<key>uuid</key>
 	<string>4603BB33-AD1E-454A-9A04-770C554359C4</string>
 </dict>

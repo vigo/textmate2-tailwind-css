@@ -28,7 +28,7 @@ printf("text-${1|%s|}", values.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>tc</string>
+	<string>tg-tc</string>
 	<key>uuid</key>
 	<string>2bf264be-9aea-4145-ae0b-2781ca0f8134</string>
 	<key>version</key>

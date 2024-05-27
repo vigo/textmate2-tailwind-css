@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>mixb</string>
+	<string>e-mixb</string>
 	<key>uuid</key>
 	<string>EFC6FC36-C241-447D-B987-F67968293DFF</string>
 </dict>

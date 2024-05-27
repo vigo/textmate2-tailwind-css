@@ -16,32 +16,32 @@ Values are taken from https://tailwindcomponents.com/cheatsheet/ (v3.0.24)
 
 ## Tab Completions
 
-Type prefix and hit <kbd>⇥</kbd> (TAB)
+Type prefix and hit <kbd>⇥</kbd> (TAB). Prefix logic is using the same
+structure as cheatsheet. For example; **Layout** related modifiers are start
+with `l-`, same applies to others...
 
 ### Layout
 
 | Prefix | Description |
 |:---|:---|
-| `ar` | Aspect Ratio classes |
-| `con` | Container with responsive variants |
-| `cols` | Columns with different variants |
-| `braf` | Break After classes |
-| `brbe` | Break Before classes |
-| `brin` | Break Inside classes |
-| `bdbr` | Box Decoration Break classes |
-| `bs` | Border Sizing classes |
-| `dis` | Display classes |
-| `flo` | Float classes |
-| `cl` | Float classes |
-| `isl` | Isolation classes |
-| `objf` | Object Fit classes |
-| `objp` | Object Position classes |
-| `overf` | Overflow classes |
-| `overs` | Overscroll Behavior classes |
-| `pos` | Position classes |
-| `inset` | Top / Right / Bottom / Left (insets) |
-| `vis` | Visibility classes |
-| `zind` | Z-Index classes |
+| `l-asp` | Aspect Ratio classes |
+| `l-con` | Container with responsive variants |
+| `l-col` | Columns with different variants |
+| `l-bra` | Break After classes |
+| `l-brb` | Break Before classes |
+| `l-bri` | Break Inside classes |
+| `l-bdb` | Box Decoration Break classes |
+| `l-boxs` | Border Sizing classes |
+| `l-dis` | Display classes |
+| `l-flo` | Float classes |
+| `l-cle` | Clear classes |
+| `l-iso` | Isolation classes |
+| `l-obj` | Object Fit & Position classes |
+| `l-over` | Overflow /Overscroll Behavior classes |
+| `l-pos` | Position classes |
+| `l-inset` | Top / Right / Bottom / Left (insets) |
+| `l-vis` | Visibility classes |
+| `l-zix` | Z-Index classes |
 
 ---
 
@@ -49,8 +49,8 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `w` | Width classes (regular/min/max) classes |
-| `h` | Height classes (regular/min/max) classes |
+| `s-w` | Width classes (regular/min/max) classes |
+| `s-h` | Height classes (regular/min/max) classes |
 
 ---
 
@@ -58,14 +58,14 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `sc` | Scale classes |
-| `scx` | Scale-X classes |
-| `scy` | Scale-y classes |
-| `rot` | Rotate classes |
-| `tx` | Translate-X classes |
-| `ty` | Translate-Y classes |
-| `sk` | Skew X or Y classes |
-| `tro` | Transform Origin classes |
+| `t-sca` | Scale classes |
+| `t-scax` | Scale-X classes |
+| `t-scay` | Scale-y classes |
+| `t-rot` | Rotate classes |
+| `t-tx` | Translate-X classes |
+| `t-ty` | Translate-Y classes |
+| `t-ske` | Skew X or Y classes |
+| `t-to` | Transform Origin classes |
 
 
 ---
@@ -74,10 +74,10 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `boxs` | Box Shadow classes |
-| `opa` | Opacity classes |
-| `mixb` | Mix Blend Mode classes |
-| `backb` | Background Blend Mode classes |
+| `e-boxs` | Box Shadow & Size classes |
+| `e-opa` | Opacity classes |
+| `e-mixb` | Mix Blend Mode classes |
+| `e-backb` | Background Blend Mode classes |
 
 ---
 
@@ -85,20 +85,20 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `m` | `margin:` classes such as; `m-0` ... |
-| `mx` | `margin-left:` + `margin-right:` classes such as; `mx-0` ... |
-| `my` | `margin-top:` + `margin-bottom:` classes such as; `my-0` ... |
-| `mt` | `margin-top:` classes such as; `mt-0` ... |
-| `mr` | `margin-right:` classes such as; `mr-0` ... |
-| `mb` | `margin-bottom:` classes such as; `mb-0` ... |
-| `ml` | `margin-left:` classes such as; `ml-0` ... |
-| `-m` | Negative `margin:` classes such as; `-m-0` ... |
-| `-mx` | Negative `margin-left:` + `margin-right:` classes such as; `-mx-0` ... |
-| `-my` | Negative `margin-top:` + `margin-bottom:` classes such as; `-my-0` ... |
-| `-mt` | Negative `margin-top:` classes such as; `-mt-0` ... |
-| `-mr` | Negative `margin-right:` classes such as; `-mr-0` ... |
-| `-mb` | Negative `margin-bottom:` classes such as; `-mb-0` ... |
-| `-ml` | Negative `margin-left:` classes such as; `-ml-0` ... |
+| `sp-m` | `margin:` classes such as; `m-0` ... |
+| `sp-mx` | `margin-left:` + `margin-right:` classes such as; `mx-0` ... |
+| `sp-my` | `margin-top:` + `margin-bottom:` classes such as; `my-0` ... |
+| `sp-mt` | `margin-top:` classes such as; `mt-0` ... |
+| `sp-mr` | `margin-right:` classes such as; `mr-0` ... |
+| `sp-mb` | `margin-bottom:` classes such as; `mb-0` ... |
+| `sp-ml` | `margin-left:` classes such as; `ml-0` ... |
+| `-sp-m` | Negative `margin:` classes such as; `-m-0` ... |
+| `-sp-mx` | Negative `margin-left:` + `margin-right:` classes such as; `-mx-0` ... |
+| `-sp-my` | Negative `margin-top:` + `margin-bottom:` classes such as; `-my-0` ... |
+| `-sp-mt` | Negative `margin-top:` classes such as; `-mt-0` ... |
+| `-sp-mr` | Negative `margin-right:` classes such as; `-mr-0` ... |
+| `-sp-mb` | Negative `margin-bottom:` classes such as; `-mb-0` ... |
+| `-sp-ml` | Negative `margin-left:` classes such as; `-ml-0` ... |
 
 ---
 
@@ -106,13 +106,13 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `pa` | `padding:` classes such as; `p-0` ... |
-| `px` | `padding-left:` + `padding-right:` classes such as; `px-0` ... |
-| `py` | `padding-top:` + `padding-bottom:` classes such as; `py-0` ... |
-| `pt` | `padding-top:` classes such as; `pt-0` ... |
-| `pr` | `padding-right:` classes such as; `pr-0` ... |
-| `pb` | `padding-bottom:` classes such as; `pb-0` ... |
-| `pl` | `padding-left:` classes such as; `pl-0` ... |
+| `sp-pa` | `padding:` classes such as; `p-0` ... |
+| `sp-px` | `padding-left:` + `padding-right:` classes such as; `px-0` ... |
+| `sp-py` | `padding-top:` + `padding-bottom:` classes such as; `py-0` ... |
+| `sp-pt` | `padding-top:` classes such as; `pt-0` ... |
+| `sp-pr` | `padding-right:` classes such as; `pr-0` ... |
+| `sp-pb` | `padding-bottom:` classes such as; `pb-0` ... |
+| `sp-pl` | `padding-left:` classes such as; `pl-0` ... |
 
 ---
 
@@ -120,10 +120,10 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `sx` | `space-x` classes such as; `space-x-0` ... |
-| `sy` | `space-y` classes such as; `space-y-0` ... |
-| `-sx` | Negative `space-x` classes such as; `-space-x-0` ... |
-| `-sy` | Negative `space-y` classes such as; `-space-y-0` ... |
+| `sp-sx` | `space-x` classes such as; `space-x-0` ... |
+| `sp-sy` | `space-y` classes such as; `space-y-0` ... |
+| `-sp-sx` | Negative `space-x` classes such as; `-space-x-0` ... |
+| `-sp-sy` | Negative `space-y` classes such as; `-space-y-0` ... |
 
 ---
 
@@ -131,27 +131,27 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `ff` | Font Family classes |
-| `fs` | Text Size / Font Size classes |
-| `fsm` | Font Smoothing classes |
-| `fst` | Font Style classes |
-| `fw` | Font Weight classes |
-| `fvn` | Font Variant Numeric classes |
-| `lsp` | Letter Spacing classes |
-| `lh` | Line Height classes |
-| `lis` | List Style Type and Position classes |
-| `tc` | Basic styles classes |
-| `ta` | Text Align classes |
-| `tc` | Text Colors classes |
-| `td` | Text Decoration, Style and Thickness classes |
-| `tuo` | Text Underline Offset classes |
-| `tt` | Text Transform classes |
-| `to` | Text Overflow classes |
-| `ti` | Text Indent classes |
-| `va` | Vertical Align classes |
-| `wsp` | White Space classes |
-| `wb` | Word Break classes |
-| `cnt` | Content classes |
+| `tg-ff` | Font Family classes |
+| `tg-fs` | Text Size / Font Size classes |
+| `tg-fsm` | Font Smoothing classes |
+| `tg-fst` | Font Style classes |
+| `tg-fw` | Font Weight classes |
+| `tg-fvn` | Font Variant Numeric classes |
+| `tg-lsp` | Letter Spacing classes |
+| `tg-lh` | Line Height classes |
+| `tg-lis` | List Style Type and Position classes |
+| `tg-tc` | Basic styles classes |
+| `tg-ta` | Text Align classes |
+| `tg-tc` | Text Colors classes |
+| `tg-td` | Text Decoration, Style and Thickness classes |
+| `tg-tuo` | Text Underline Offset classes |
+| `tg-tt` | Text Transform classes |
+| `tg-to` | Text Overflow classes |
+| `tg-ti` | Text Indent classes |
+| `tg-va` | Vertical Align classes |
+| `tg-wsp` | White Space classes |
+| `tg-wb` | Word Break classes |
+| `tg-cnt` | Content classes |
 
 ---
 
@@ -159,17 +159,17 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `appe` | Appearance |
-| `cur` | Cursor classes |
-| `po` | Pointer Events |
-| `res` | Resize classes |
-| `scrob` | Scroll Behavior classes |
-| `scrom` | Scroll Margins (regular, mx, my, mt, mr, mb, ml) classes |
-| `scrop` | Scroll Paddings (regular, mx, my, mt, mr, mb, ml) classes |
-| `scrosnap` | Scroll Snap Align/Stop/Type classes |
-| `tou` | Touch Action classes |
-| `usel` | User Select classes |
-| `willc` | Will Change classes |
+| `i-appe` | Appearance |
+| `i-cur` | Cursor classes |
+| `i-poev` | Pointer Events |
+| `i-res` | Resize classes |
+| `i-scrb` | Scroll Behavior classes |
+| `i-scrm` | Scroll Margins (regular, mx, my, mt, mr, mb, ml) classes |
+| `i-scrp` | Scroll Paddings (regular, mx, my, mt, mr, mb, ml) classes |
+| `i-scrsnap` | Scroll Snap Align/Stop/Type classes |
+| `i-tou` | Touch Action classes |
+| `i-user` | User Select classes |
+| `i-will` | Will Change classes |
 
 ---
 
@@ -258,7 +258,7 @@ Type prefix and hit <kbd>⇥</kbd> (TAB)
 
 | Prefix | Description |
 |:---|:---|
-| `rv` | Responsive Variants such as `sm:`, `md:` ... |
+| `uti-rv` | Responsive Variants such as `sm:`, `md:` ... |
 
 ---
 

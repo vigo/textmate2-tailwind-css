@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>braf</string>
+	<string>l-bra</string>
 	<key>uuid</key>
 	<string>BFA57AA0-769C-4853-97CD-37AFDCB83B08</string>
 </dict>

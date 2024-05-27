@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>pos</string>
+	<string>l-pos</string>
 	<key>uuid</key>
 	<string>FBFC499A-B0B6-4D62-8ECF-AA8CAC7585D9</string>
 </dict>

@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>po</string>
+	<string>i-poev</string>
 	<key>uuid</key>
 	<string>EC43F665-9625-43D7-B2DB-C05ADD78993C</string>
 </dict>

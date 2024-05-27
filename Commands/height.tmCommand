@@ -60,7 +60,7 @@ printf("${1|%s|}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>h</string>
+	<string>s-h</string>
 	<key>uuid</key>
 	<string>05f93989-6556-42c7-bdf6-bd54fac41a5c</string>
 	<key>version</key>

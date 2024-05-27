@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>flo</string>
+	<string>l-flo</string>
 	<key>uuid</key>
 	<string>019DF9BE-B2AC-4187-BC42-A8338504D158</string>
 </dict>

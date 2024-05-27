@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>isl</string>
+	<string>l-iso</string>
 	<key>uuid</key>
 	<string>36A19965-14BE-4751-B00B-72C92A5EDF16</string>
 </dict>

@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>scx</string>
+	<string>t-scax</string>
 	<key>uuid</key>
 	<string>0A5524B3-C841-4698-A472-2D9C2B4DB36C</string>
 </dict>

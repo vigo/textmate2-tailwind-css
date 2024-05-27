@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>scrob</string>
+	<string>i-scrb</string>
 	<key>uuid</key>
 	<string>B889EB5F-EF3C-4C6D-88FE-8E0C85AF2292</string>
 </dict>
