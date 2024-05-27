@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>overscroll-${1|auto,y-auto,x-auto,contain,y-contain,x-contain,none,y-none,x-none|}</string>
+	<string>${2:overscroll-${1|auto,y-auto,x-auto,contain,y-contain,x-contain,none,y-none,x-none|}}</string>
 	<key>name</key>
 	<string>Overscroll Behavior</string>
 	<key>scope</key>

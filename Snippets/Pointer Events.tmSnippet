@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>pointer-events-${1|none,auto|}</string>
+	<string>${2:pointer-events-${1|none,auto|}}</string>
 	<key>name</key>
 	<string>Pointer Events</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>scale-x-${1|0,50,75,90,95,100,105,110,125,150|}</string>
+	<string>${2:scale-x-${1|0,50,75,90,95,100,105,110,125,150|}}</string>
 	<key>name</key>
 	<string>Scale - X</string>
 	<key>scope</key>

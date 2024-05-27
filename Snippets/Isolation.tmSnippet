@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|isolate,isolate-auto|}</string>
+	<string>${2:${1|isolate,isolate-auto|}}</string>
 	<key>name</key>
 	<string>Isolation</string>
 	<key>scope</key>

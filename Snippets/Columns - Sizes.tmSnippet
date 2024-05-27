@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>columns-${1|auto,3xs,2xs,xs,sm,md,xl,2xl,3xl,4xl,5xl,6xl,7xl|}</string>
+	<string>${2:columns-${1|auto,3xs,2xs,xs,sm,md,xl,2xl,3xl,4xl,5xl,6xl,7xl|}}</string>
 	<key>name</key>
 	<string>Columns - Sizes</string>
 	<key>scope</key>

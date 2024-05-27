@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>shadow-${1|xs,sm,md,lg,xl,2xl|}</string>
+	<string>${2:shadow-${1|xs,sm,md,lg,xl,2xl|}}</string>
 	<key>name</key>
 	<string>Box Shadow - Size</string>
 	<key>scope</key>

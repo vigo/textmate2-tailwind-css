@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>float-${1|right,left,none|}</string>
+	<string>${2:float-${1|right,left,none|}}</string>
 	<key>name</key>
 	<string>Float</string>
 	<key>scope</key>

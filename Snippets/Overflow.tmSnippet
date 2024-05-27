@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>overflow-${1|auto,x-auto,y-auto,hidden,x-hidden,y-hidden,visible,x-visible,y-visible,scroll,x-scroll,y-scroll|}</string>
+	<string>${2:overflow-${1|auto,x-auto,y-auto,hidden,x-hidden,y-hidden,visible,x-visible,y-visible,scroll,x-scroll,y-scroll|}}</string>
 	<key>name</key>
 	<string>Overflow</string>
 	<key>scope</key>

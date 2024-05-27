@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>aspect-${1|auto,square,video|}</string>
+	<string>${2:aspect-${1|auto,square,video|}}</string>
 	<key>name</key>
 	<string>Aspect Ratio</string>
 	<key>scope</key>

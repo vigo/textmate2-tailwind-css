@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|,sm:,md:,lg:,xl:,2xl:|}container</string>
+	<string>${2:${1|,sm:,md:,lg:,xl:,2xl:|}container}</string>
 	<key>name</key>
 	<string>Container</string>
 	<key>scope</key>

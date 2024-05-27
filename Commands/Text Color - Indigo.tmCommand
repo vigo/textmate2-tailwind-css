@@ -11,7 +11,7 @@ require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
 
 values = get_color_values("indigo")
 
-printf("text-${1|%s|}", values.join(","))
+printf("${2:text-${1|%s|}}", values.join(","))
 </string>
 	<key>input</key>
 	<string>none</string>

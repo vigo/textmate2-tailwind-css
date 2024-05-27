@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|normal-nums,ordinal,slashed-zero,lining-nums,oldstyle-nums,proportional-nums,tabular-nums,diagonal-fractions,stacked-fractions|}</string>
+	<string>${2:${1|normal-nums,ordinal,slashed-zero,lining-nums,oldstyle-nums,proportional-nums,tabular-nums,diagonal-fractions,stacked-fractions|}}</string>
 	<key>name</key>
 	<string>Font Variant Numeric</string>
 	<key>scope</key>

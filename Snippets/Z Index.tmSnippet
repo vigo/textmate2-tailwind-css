@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>z-${1|0,10,20,30,40,auto|}</string>
+	<string>${2:z-${1|0,10,20,30,40,auto|}}</string>
 	<key>name</key>
 	<string>Z Index</string>
 	<key>scope</key>

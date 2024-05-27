@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|uppercase,lowercase,capitalize,normal-case|}</string>
+	<string>${2:${1|uppercase,lowercase,capitalize,normal-case|}}</string>
 	<key>name</key>
 	<string>Text Transform</string>
 	<key>scope</key>

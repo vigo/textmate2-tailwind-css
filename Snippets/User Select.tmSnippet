@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>select-${1|none,text,all,auto|}</string>
+	<string>${2:select-${1|none,text,all,auto|}}</string>
 	<key>name</key>
 	<string>User Select</string>
 	<key>scope</key>

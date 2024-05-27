@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>bg-blend-${1|normal,multiply,screen,overlay,darken,lighten,color-dodge,color-burn,hard-light,soft-light,difference,exclusion,hue,saturation,color,luminosity|}</string>
+	<string>${2:bg-blend-${1|normal,multiply,screen,overlay,darken,lighten,color-dodge,color-burn,hard-light,soft-light,difference,exclusion,hue,saturation,color,luminosity|}}</string>
 	<key>name</key>
 	<string>Background Blend Mode</string>
 	<key>scope</key>

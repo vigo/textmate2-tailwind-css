@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|static,fixed,absolute,relative,sticky|}</string>
+	<string>${2:${1|static,fixed,absolute,relative,sticky|}}</string>
 	<key>name</key>
 	<string>Position</string>
 	<key>scope</key>

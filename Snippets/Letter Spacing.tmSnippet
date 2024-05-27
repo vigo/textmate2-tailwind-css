@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|tracking-tighter,tracking-tight,tracking-normal,tracking-wide,tracking-wider,tracking-widest|}</string>
+	<string>${2:${1|tracking-tighter,tracking-tight,tracking-normal,tracking-wide,tracking-wider,tracking-widest|}}</string>
 	<key>name</key>
 	<string>Letter Spacing</string>
 	<key>scope</key>

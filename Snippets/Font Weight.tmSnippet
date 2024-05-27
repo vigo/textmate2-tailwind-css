@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>font-${1|thin,extralight,light,normal,medium,semibold,bold,extrabold,black|}</string>
+	<string>${2:font-${1|thin,extralight,light,normal,medium,semibold,bold,extrabold,black|}}</string>
 	<key>name</key>
 	<string>Font Weight</string>
 	<key>scope</key>

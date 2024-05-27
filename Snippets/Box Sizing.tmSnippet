@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>box-${1|border,content|}</string>
+	<string>${2:box-${1|border,content|}}</string>
 	<key>name</key>
 	<string>Box Sizing</string>
 	<key>scope</key>

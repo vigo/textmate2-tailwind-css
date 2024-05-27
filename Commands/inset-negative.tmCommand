@@ -22,7 +22,7 @@ out &lt;&lt; "-inset-1/4"
 out &lt;&lt; "-inset-3/4"
 
 
-printf("${1|%s|}", out.join(","))
+printf("${2:${1|%s|}}", out.join(","))
 </string>
 	<key>input</key>
 	<string>none</string>

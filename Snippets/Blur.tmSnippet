@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:blur${1|-none,-sm,,-md,-lg,-xl,-2xl,-3xl|}}</string>
+	<key>name</key>
+	<string>Blur</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>f-blur</string>
+	<key>uuid</key>
+	<string>624F32E3-2EB7-405B-BDF8-A7B79B73418B</string>
+</dict>
+</plist>

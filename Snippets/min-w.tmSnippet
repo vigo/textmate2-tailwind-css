@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>min-w-${1|0,full,min,max,fit|}</string>
+	<string>${2:min-w-${1|0,full,min,max,fit|}}</string>
 	<key>name</key>
 	<string>min-w (min-wdith)</string>
 	<key>scope</key>

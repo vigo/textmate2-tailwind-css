@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:hue-rotate-${1|0,15,30,60,90,180|}}</string>
+	<key>name</key>
+	<string>Hue Rotate</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>f-huer</string>
+	<key>uuid</key>
+	<string>7244A8AD-09BF-4F15-919E-55DC15660C39</string>
+</dict>
+</plist>

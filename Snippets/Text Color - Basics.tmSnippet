@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>text-${1|transparent,current,black,white|}</string>
+	<string>${2:text-${1|transparent,current,black,white|}}</string>
 	<key>name</key>
 	<string>Text Color - Basics</string>
 	<key>scope</key>

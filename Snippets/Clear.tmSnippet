@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>clear-${1|left,right,both,none|}</string>
+	<string>${2:clear-${1|left,right,both,none|}}</string>
 	<key>name</key>
 	<string>Clear</string>
 	<key>scope</key>

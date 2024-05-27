@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>decoration-${1|solid,double,dotted,dashed,wavy|}</string>
+	<string>${2:decoration-${1|solid,double,dotted,dashed,wavy|}}</string>
 	<key>name</key>
 	<string>Text Decoration Style</string>
 	<key>scope</key>

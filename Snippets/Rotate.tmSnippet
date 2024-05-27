@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>rotate-${1|0,1,2,3,6,12,45,90,10|}</string>
+	<string>${2:rotate-${1|0,1,2,3,6,12,45,90,10|}}</string>
 	<key>name</key>
 	<string>Rotate</string>
 	<key>scope</key>

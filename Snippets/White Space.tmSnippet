@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>whitespace-${1|normal,nowrap,pre,pre-line,pre-wrap|}</string>
+	<string>${2:whitespace-${1|normal,nowrap,pre,pre-line,pre-wrap|}}</string>
 	<key>name</key>
 	<string>White Space</string>
 	<key>scope</key>

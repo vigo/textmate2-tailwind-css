@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>opacity-${1|0,5,10,20,25,30,40,50,60,70,75,80,90,100|}</string>
+	<string>${2:opacity-${1|0,5,10,20,25,30,40,50,60,70,75,80,90,100|}}</string>
 	<key>name</key>
 	<string>Opacity</string>
 	<key>scope</key>

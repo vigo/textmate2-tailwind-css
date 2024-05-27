@@ -177,8 +177,14 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `f-blur` | Blur classes |
+| `f-bri` | Brightness classes |
+| `f-con` | Contrast classes |
+| `f-dsh` | Drop Shadow classes |
+| `f-gs` | Grayscale classes |
+| `f-huer` | Hue Rotate classes |
+| `f-inv` | Invert classes |
+| `f-sat` | Sature classes |
 
 ---
 

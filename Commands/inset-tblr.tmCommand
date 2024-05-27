@@ -16,7 +16,7 @@ values.each do |data|
   out &lt;&lt; data[:name]
 end
 
-printf("${1|,-|}${2|top,right,bottom,left|}-${3|%s|}", out.join(","))</string>
+printf("${4:${1|,-|}${2|top,right,bottom,left|}-${3|%s|}}", out.join(","))</string>
 	<key>input</key>
 	<string>none</string>
 	<key>inputFormat</key>

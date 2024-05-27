@@ -18,7 +18,7 @@ end
 out &lt;&lt; "m-px"
 out &lt;&lt; "m-auto"
 
-printf("${1|%s|}", out.join(","))
+printf("${2:${1|%s|}}", out.join(","))
 </string>
 	<key>input</key>
 	<string>none</string>

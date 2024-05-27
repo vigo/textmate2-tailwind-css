@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>list-${1|none,disc,decimal,inside,outside|}</string>
+	<string>${2:list-${1|none,disc,decimal,inside,outside|}}</string>
 	<key>name</key>
 	<string>List Style Type and Position</string>
 	<key>scope</key>

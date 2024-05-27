@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>object-${1|bottom,center,left,left-bottom,left-top,right,right-bottom,right-top,top|}</string>
+	<string>${2:object-${1|bottom,center,left,left-bottom,left-top,right,right-bottom,right-top,top|}}</string>
 	<key>name</key>
 	<string>Object Position</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>snap-${1|star,end,center,align-none,normal,always,none,x,y,both,mandatory,proximity|}</string>
+	<string>${2:snap-${1|star,end,center,align-none,normal,always,none,x,y,both,mandatory,proximity|}}</string>
 	<key>name</key>
 	<string>Scroll Snap Align / Stop / Type</string>
 	<key>scope</key>

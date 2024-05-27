@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|antialiased,subpixel-antialiased|}</string>
+	<string>${2:${1|antialiased,subpixel-antialiased|}}</string>
 	<key>name</key>
 	<string>Font Smoothing</string>
 	<key>scope</key>

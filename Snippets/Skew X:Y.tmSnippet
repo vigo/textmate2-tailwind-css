@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>skew-${1|x,y|}-${2|0,1,2,3,6,12|}</string>
+	<string>${3:skew-${1|x,y|}-${2|0,1,2,3,6,12|}}</string>
 	<key>name</key>
 	<string>Skew X/Y</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>resize${1|,-none,-y,-x|}</string>
+	<string>${2:resize${1|,-none,-y,-x|}}</string>
 	<key>name</key>
 	<string>Resize</string>
 	<key>scope</key>

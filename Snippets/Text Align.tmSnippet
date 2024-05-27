@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>text-${1|left,center,right,justify|}</string>
+	<string>${2:text-${1|left,center,right,justify|}}</string>
 	<key>name</key>
 	<string>Text Align</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>origin-${1|center,top,top-right,right,bottom-right,bottom,bottom-left,left,top-left|}</string>
+	<string>${2:origin-${1|center,top,top-right,right,bottom-right,bottom,bottom-left,left,top-left|}}</string>
 	<key>name</key>
 	<string>Transform Origin</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>break-${1|normal,words,all|}</string>
+	<string>${2:break-${1|normal,words,all|}}</string>
 	<key>name</key>
 	<string>Word Break</string>
 	<key>scope</key>

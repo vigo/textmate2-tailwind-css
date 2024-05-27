@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>align-${1|baseline,top,middle,bottom,text-top,text-bottom,sub,super|}</string>
+	<string>${2:align-${1|baseline,top,middle,bottom,text-top,text-bottom,sub,super|}}</string>
 	<key>name</key>
 	<string>Vertical Align</string>
 	<key>scope</key>

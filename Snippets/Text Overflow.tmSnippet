@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|truncate,text-ellipsis,text-clip|}</string>
+	<string>${2:${1|truncate,text-ellipsis,text-clip|}}</string>
 	<key>name</key>
 	<string>Text Overflow</string>
 	<key>scope</key>

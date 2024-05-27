@@ -17,7 +17,7 @@ values.each do |data|
 end
 out &lt;&lt; "scroll-p-px"
 
-printf("${1|%s|}", out.join(","))
+printf("${2:${1|%s|}}", out.join(","))
 </string>
 	<key>input</key>
 	<string>none</string>

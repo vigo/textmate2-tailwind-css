@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|block,inline-block,inline,flex,inline-flex,table,inline-table,table-caption,table-cell,table-column,table-column-group,table-footer-group,table-header-group,table-row-group,table-row,flow-root,grid,inline-grid,contents,list-item,hidden|}</string>
+	<string>${2:${1|block,inline-block,inline,flex,inline-flex,table,inline-table,table-caption,table-cell,table-column,table-column-group,table-footer-group,table-header-group,table-row-group,table-row,flow-root,grid,inline-grid,contents,list-item,hidden|}}</string>
 	<key>name</key>
 	<string>Display</string>
 	<key>scope</key>

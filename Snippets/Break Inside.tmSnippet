@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>break-inside-${1|auto,avoid,avoid-page,column|}</string>
+	<string>${2:break-inside-${1|auto,avoid,avoid-page,column|}}</string>
 	<key>name</key>
 	<string>Break Inside</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|italic,not-italic|}</string>
+	<string>${2:${1|italic,not-italic|}}</string>
 	<key>name</key>
 	<string>Font Style</string>
 	<key>scope</key>

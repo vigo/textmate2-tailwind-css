@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1|underline,overline,line-through,no-underline|}</string>
+	<string>${2:${1|underline,overline,line-through,no-underline|}}</string>
 	<key>name</key>
 	<string>Text Decoration</string>
 	<key>scope</key>

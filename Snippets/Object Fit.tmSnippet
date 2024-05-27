@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>object-${1|contain,cover,fill,none,scale-down|}</string>
+	<string>${2:object-${1|contain,cover,fill,none,scale-down|}}</string>
 	<key>name</key>
 	<string>Object Fit</string>
 	<key>scope</key>

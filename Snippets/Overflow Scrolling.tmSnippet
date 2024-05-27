@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>scrolling-${1|touch,auto|}</string>
+	<string>${2:scrolling-${1|touch,auto|}}</string>
 	<key>name</key>
 	<string>Overflow Scrolling</string>
 	<key>scope</key>

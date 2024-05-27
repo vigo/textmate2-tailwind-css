@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>will-change-${1|auto,scroll,contents,transform|}</string>
+	<string>${2:will-change-${1|auto,scroll,contents,transform|}}</string>
 	<key>name</key>
 	<string>Will Change</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>decoration-${1|slice,clone|}</string>
+	<string>${2:decoration-${1|slice,clone|}}</string>
 	<key>name</key>
 	<string>Box Decoration Break</string>
 	<key>scope</key>

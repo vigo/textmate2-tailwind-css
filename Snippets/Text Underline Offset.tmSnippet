@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>underline-offset-${1|auto,from-font,0,1,2,4,8|}</string>
+	<string>${2:underline-offset-${1|auto,from-font,0,1,2,4,8|}}</string>
 	<key>name</key>
 	<string>Text Underline Offset</string>
 	<key>scope</key>
