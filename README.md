@@ -106,7 +106,7 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-| `sp-pa` | `padding:` classes such as; `p-0` ... |
+| `sp-p` | `padding:` classes such as; `p-0` ... |
 | `sp-px` | `padding-left:` + `padding-right:` classes such as; `px-0` ... |
 | `sp-py` | `padding-top:` + `padding-bottom:` classes such as; `py-0` ... |
 | `sp-pt` | `padding-top:` classes such as; `pt-0` ... |
@@ -185,6 +185,8 @@ with `l-`, same applies to others...
 | `f-huer` | Hue Rotate classes |
 | `f-inv` | Invert classes |
 | `f-sat` | Sature classes |
+| `f-sep` | Sepia classes |
+| `f-backd` | Backdrop classes |
 
 ---
 

@@ -9,22 +9,16 @@
 
 require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
 
-values = get_values("p")
+values = get_color_values("sky")
 
-out = []
-values.each do |data|
-  out &lt;&lt; data[:name]
-end
-out &lt;&lt; "p-px"
-
-printf("${2:${1|%s|}}", out.join(","))
+printf("${2:text-${1|%s|}}", values.join(","))
 </string>
 	<key>input</key>
 	<string>none</string>
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>name</key>
-	<string>p (padding)</string>
+	<string>Text Color - Sky</string>
 	<key>outputCaret</key>
 	<string>interpolateByChar</string>
 	<key>outputFormat</key>
@@ -34,9 +28,9 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>sp-p</string>
+	<string>tg-tc</string>
 	<key>uuid</key>
-	<string>12b4b4a9-744a-4382-ad8f-a9f6b2d638bb</string>
+	<string>433c66b5-0d15-4b1f-a676-dc36000104f0</string>
 	<key>version</key>
 	<integer>2</integer>
 </dict>

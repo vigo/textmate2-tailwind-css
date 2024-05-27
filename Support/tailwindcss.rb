@@ -76,5 +76,6 @@ def get_color_values(color_name)
   out << "#{color_name}-50"
   color_codes = color_range.map{ |n| n * 100 }
   out += color_codes.map{|n| "#{color_name}-#{n.to_s}" }
+  out << "#{color_name}-950"
   out
 end

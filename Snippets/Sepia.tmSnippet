@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${2:text-${1|inherit,current,transparent,black,white|}}</string>
+	<string>${2:sepia${1|-0,|}}</string>
 	<key>name</key>
-	<string>Text Color - Basics</string>
+	<string>Sepia</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>tg-tc</string>
+	<string>f-sep</string>
 	<key>uuid</key>
-	<string>EA3E28F4-CB8B-42DF-8AD3-35BED530C224</string>
+	<string>314819DC-787C-494A-AE73-7A3CDF0C9C6B</string>
 </dict>
 </plist>

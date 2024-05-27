@@ -7,24 +7,28 @@
 	<key>command</key>
 	<string>#!/usr/bin/env ruby18 -wKU
 
-require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
-
-values = get_values("p")
-
-out = []
-values.each do |data|
-  out &lt;&lt; data[:name]
-end
-out &lt;&lt; "p-px"
-
-printf("${2:${1|%s|}}", out.join(","))
+puts(&lt;&lt;-TEMP)
+&lt;!doctype html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="UTF-8"&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+        &lt;script src="https://cdn.tailwindcss.com"&gt;&lt;/script&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h1 class="text-3xl font-bold underline"&gt;
+            ${1:Hello world!}${0}
+        &lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+TEMP
 </string>
 	<key>input</key>
 	<string>none</string>
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>name</key>
-	<string>p (padding)</string>
+	<string>Create Play CDN Template</string>
 	<key>outputCaret</key>
 	<string>interpolateByChar</string>
 	<key>outputFormat</key>
@@ -34,9 +38,9 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>sp-p</string>
+	<string>playcdn</string>
 	<key>uuid</key>
-	<string>12b4b4a9-744a-4382-ad8f-a9f6b2d638bb</string>
+	<string>E75C60C1-1ACB-4117-99C9-8F36EC360C52</string>
 	<key>version</key>
 	<integer>2</integer>
 </dict>
