@@ -65,6 +65,7 @@
             <dict>
                 <key>items</key>
                 <array>
+                    <string>------------------------------------</string>
                     <string>3B044443-2143-4DA1-95F1-C25EA3FBB8BE</string>
                     <string>D8B9A1AE-B848-4D53-B9D7-3E81B9163985</string>
                     <string>------------------------------------</string>
@@ -191,6 +192,7 @@
             <dict>
                 <key>items</key>
                 <array>
+                    <string>------------------------------------</string>
                     <string>D3926578-AF93-4F11-A3D3-95990732E1A4</string>
                     <string>------------------------------------</string>
                     <string>491D0431-C8DB-4DE8-8BC6-0496D85B4568</string>
@@ -210,6 +212,7 @@
                     <string>6638DA99-57CE-44F5-9922-BB990BF7E1F3</string>
                     <string>C0CC0F24-1B9C-4B6B-B80B-E9784C047F00</string>
                     <string>2438C2D0-F282-401C-A628-CD7A5A9FC8BC</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Margin</string>
@@ -219,6 +222,7 @@
             <dict>
                 <key>items</key>
                 <array>
+                    <string>------------------------------------</string>
                     <string>12b4b4a9-744a-4382-ad8f-a9f6b2d638bb</string>
                     <string>------------------------------------</string>
                     <string>5e1beaed-da64-4a8d-b372-69d9552ee49c</string>
@@ -228,6 +232,7 @@
                     <string>3298f695-b5d5-45a7-baeb-9a3931b4803f</string>
                     <string>de89d10f-0160-42bd-b366-c47ad0d8c637</string>
                     <string>0e27bf10-5473-4ebe-95c0-b3cf2491e413</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Padding</string>
@@ -237,11 +242,13 @@
             <dict>
                 <key>items</key>
                 <array>
+                    <string>------------------------------------</string>
                     <string>9a85d364-b2db-4fb7-9013-22700c9234e7</string>
                     <string>297dd8f1-bd2a-4e92-92d8-312626fb4ae5</string>
                     <string>------------------------------------</string>
                     <string>ec08d1fb-db6e-4667-8daa-b59fcd8a99e9</string>
                     <string>ef8157a1-3631-4bbd-9005-9b14ac16e754</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Space Between</string>
@@ -253,6 +260,7 @@
             <dict>
                 <key>items</key>
                 <array>
+                    <string>------------------------------------</string>
                     <string>0796B351-EF83-4E46-BF41-3878B4D66DBE</string>
                     <string>9DC0B7BE-204D-4F1D-B958-1B735F089580</string>
                     <string>3A042D5A-EF21-4F76-B1E3-470463203404</string>
@@ -264,29 +272,7 @@
                     <string>3CD78B25-DAB0-4359-9252-C39C5B98ACD7</string>
                     <string>ACC53C5A-FC85-4238-9377-1F2625BA29BB</string>
                     <string>------------------------------------</string>
-                    <string>EA3E28F4-CB8B-42DF-8AD3-35BED530C224</string>
-                    <string>50EC5E1C-588F-4D86-B8E2-8E4520B2812C</string>
-                    <string>01F64DC4-35DF-43EB-ACEB-C6A74DD10221</string>
-                    <string>833E1953-9233-44BA-A6DA-86486A578F42</string>
-                    <string>66875DFE-5764-4CA2-8866-D99D95FB4689</string>
-                    <string>538F8701-0FB6-4C5E-8C62-DECC2813B48F</string>
-                    <string>C4390540-F7BD-4C31-AAF0-585161E30463</string>
-                    <string>014BFF1C-7121-44E0-9275-9F137EA6B430</string>
-                    <string>950A3A95-51D1-4D72-9AEE-E45F39456B2A</string>
-                    <string>4BB34FFF-34CC-4206-8379-B368FF0762A5</string>
-                    <string>433C66B5-0D15-4B1F-A676-DC36000104F0</string>
-                    <string>B5972231-8C40-48F1-85B6-5A5983C6F502</string>
-                    <string>B1AEA9D8-BF44-4D0B-BA86-2A6539B34DDB</string>
-                    <string>D9D7B88F-ED5B-4960-8444-E437B2DA9212</string>
-                    <string>08E966FA-039F-4201-A4FF-EE15C3613E47</string>
-                    <string>1333DE6A-A7DB-47EF-8F57-A5426C594E38</string><!-- Gray -->
-                    <string>6B49B22E-534A-4FEA-B62A-7CF34C8A851C</string>
-                    <string>9ABD5CE5-3E23-4AA6-B976-9F6C7546F7CF</string>
-                    <string>0CEE95DE-524C-43DD-A0EC-8672538070BE</string>
-                    <string>00A19010-615D-435A-B4CF-C668103951E3</string>
-                    <string>59A367DF-2A84-4DF9-B154-0103E83A731F</string>
-                    <string>2BF264BE-9AEA-4145-AE0B-2781CA0F8134</string>
-                    <string>7FED89AD-FEC4-4769-9CA6-D74806FDF31C</string>
+                    <string>82c61bf5-0440-4336-8a90-fd61c216abb9</string>
                     <string>------------------------------------</string>
                     <string>CD5E5E8D-3CF8-428D-B678-0B1A26ACF3B7</string>
                     <string>2D87C45D-D698-4EA6-A526-51476859F60B</string>
@@ -307,6 +293,41 @@
                 </array>
                 <key>name</key>
                 <string>Typography</string>
+            </dict>
+            
+            <key>82c61bf5-0440-4336-8a90-fd61c216abb9</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>------------------------------------</string>
+                    <string>EA3E28F4-CB8B-42DF-8AD3-35BED530C224</string>
+                    <string>------------------------------------</string>
+                    <string>50EC5E1C-588F-4D86-B8E2-8E4520B2812C</string>
+                    <string>1333DE6A-A7DB-47EF-8F57-A5426C594E38</string><!-- Gray -->
+                    <string>01F64DC4-35DF-43EB-ACEB-C6A74DD10221</string>
+                    <string>833E1953-9233-44BA-A6DA-86486A578F42</string>
+                    <string>66875DFE-5764-4CA2-8866-D99D95FB4689</string><!-- Stone -->
+                    <string>6B49B22E-534A-4FEA-B62A-7CF34C8A851C</string>
+                    <string>C4390540-F7BD-4C31-AAF0-585161E30463</string>
+                    <string>538F8701-0FB6-4C5E-8C62-DECC2813B48F</string><!-- Amber -->
+                    <string>9ABD5CE5-3E23-4AA6-B976-9F6C7546F7CF</string>
+                    <string>014BFF1C-7121-44E0-9275-9F137EA6B430</string>
+                    <string>0CEE95DE-524C-43DD-A0EC-8672538070BE</string>
+                    <string>4BB34FFF-34CC-4206-8379-B368FF0762A5</string>
+                    <string>B5972231-8C40-48F1-85B6-5A5983C6F502</string>
+                    <string>950A3A95-51D1-4D72-9AEE-E45F39456B2A</string>
+                    <string>433C66B5-0D15-4B1F-A676-DC36000104F0</string><!-- Sky -->
+                    <string>00A19010-615D-435A-B4CF-C668103951E3</string>
+                    <string>59A367DF-2A84-4DF9-B154-0103E83A731F</string>
+                    <string>D9D7B88F-ED5B-4960-8444-E437B2DA9212</string>
+                    <string>2BF264BE-9AEA-4145-AE0B-2781CA0F8134</string>
+                    <string>B1AEA9D8-BF44-4D0B-BA86-2A6539B34DDB</string>
+                    <string>7FED89AD-FEC4-4769-9CA6-D74806FDF31C</string>
+                    <string>08E966FA-039F-4201-A4FF-EE15C3613E47</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>Text Colors</string>
             </dict>
             <!-- Typography -->
             
@@ -437,6 +458,26 @@
                     <string>8215A90E-5B15-43EE-AA68-53D6FF870715</string>
                     <string>DE393E12-1249-4B5D-ABBA-732387218151</string>
                     <string>------------------------------------</string>
+                    <string>112d639b-38c7-4999-bafc-721959cf399c</string>
+                    <string>------------------------------------</string>
+                    <string>2A29F246-CAC0-4F6E-B056-EAE1A50E1E96</string>
+                    <string>20C0F9B3-11BB-4722-A495-5B95E3800C59</string>
+                    <string>F1CC6E3D-F471-4616-8220-C5C8A3707616</string>
+                    <string>7C3CA6CC-F56C-430E-961A-C8882AA788D5</string>
+                    <string>59622E4A-08F7-4AD0-99CE-1CDB6BBA649D</string>
+                    <string>------------------------------------</string>
+                    <string>d18ee853-a7bc-472e-ae37-1862e3424bf2</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>Backgrounds</string>
+            </dict>
+            
+            <key>112d639b-38c7-4999-bafc-721959cf399c</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>------------------------------------</string>
                     <string>4F827C18-B5EC-4AC4-BA68-54524977BAAF</string>
                     <string>DFB1A0E0-E032-4AA9-B7F5-38A688F6A75D</string>
                     <string>AEA79DB1-0150-4C25-9921-E76BA2C900AF</string>
@@ -461,11 +502,15 @@
                     <string>1523F0A7-28F9-4B54-8FFA-715EA70A194B</string>
                     <string>3EF1DA6E-9544-4AB1-8933-ACD0274AEB96</string>
                     <string>------------------------------------</string>
-                    <string>2A29F246-CAC0-4F6E-B056-EAE1A50E1E96</string>
-                    <string>20C0F9B3-11BB-4722-A495-5B95E3800C59</string>
-                    <string>F1CC6E3D-F471-4616-8220-C5C8A3707616</string>
-                    <string>7C3CA6CC-F56C-430E-961A-C8882AA788D5</string>
-                    <string>59622E4A-08F7-4AD0-99CE-1CDB6BBA649D</string>
+                </array>
+                <key>name</key>
+                <string>Background Colors</string>
+            </dict>
+
+            <key>d18ee853-a7bc-472e-ae37-1862e3424bf2</key>
+            <dict>
+                <key>items</key>
+                <array>
                     <string>------------------------------------</string>
                     <string>1D071AE1-B868-44A3-9D23-8635B658CA9A</string>
                     <string>AC6F5FD0-FEBB-47F8-B8BB-0D9BCBE09BC3</string>
@@ -493,8 +538,9 @@
                     <string>------------------------------------</string>
                 </array>
                 <key>name</key>
-                <string>Backgrounds</string>
+                <string>Gradient Color Stops</string>
             </dict>
+            
             <!-- Backgrounds -->
 
             <!-- SVG -->
