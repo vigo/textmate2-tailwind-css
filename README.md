@@ -239,8 +239,8 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `acc-sr` | Screen Readers classess |
+| `acc-for` | Forced Color Adjust classess |
 
 ---
 

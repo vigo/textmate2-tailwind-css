@@ -567,7 +567,10 @@
             <dict>
                 <key>items</key>
                 <array>
-                    
+                    <string>------------------------------------</string>
+                    <string>46477B49-0103-4CB7-B7A9-BB33B2ADCF9C</string>
+                    <string>B2FB7669-E79C-4C45-B737-FAB49D3F59CE</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Accessibility</string>
