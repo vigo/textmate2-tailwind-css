@@ -220,7 +220,9 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-| `bg` | Background Attachment classes |
+| `bg` | Backgrounds related classes |
+| `bgc` | Background Colors related classes |
+| `bggs` | Background Gradient Stop Colors related classes |
 
 ---
 
