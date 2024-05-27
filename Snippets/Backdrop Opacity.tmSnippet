@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:backdrop-opacity-${1|0,5,10,20,25,30,40,50,60,70,75,80,90,95,100|}}</string>
+	<key>name</key>
+	<string>Backdrop Opacity</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>f-backd</string>
+	<key>uuid</key>
+	<string>6ADAC8B4-6383-45EA-AFBF-98AC8F8AF632</string>
+</dict>
+</plist>

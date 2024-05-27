@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:backdrop-sepia${1|-0,|}}</string>
+	<key>name</key>
+	<string>Backdrop Sepia</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>f-backd</string>
+	<key>uuid</key>
+	<string>77FD1E1A-E7F1-4998-A0C6-41791EDB3214</string>
+</dict>
+</plist>
