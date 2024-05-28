@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-0.0.0-orange.svg?style=for-the-badge&logo=semver)
+![Version](https://img.shields.io/badge/version-0.1.0-orange.svg?style=for-the-badge&logo=semver)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-3.4.3-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TextMate](https://img.shields.io/badge/textmate-2.0.23-green.svg?style=for-the-badge)
 ![macOS](https://img.shields.io/badge/macos-sonoma-yellow.svg?style=for-the-badge&logo=Apple)
