@@ -71,8 +71,19 @@ def get_color_values(color_name)
   color_range = 1..9
   out = []
   out << "#{color_name}-50"
+
   color_codes = color_range.map{ |n| n * 100 }
-  out += color_codes.map{|n| "#{color_name}-#{n.to_s}" }
+  color_codes.each do |c|
+    out << "#{color_name}-#{c.to_s}"
+    [100, 75, 50, 25, 0].each do |tp|
+      out << "#{color_name}-#{c.to_s}/#{tp}"
+    end
+  end
+
   out << "#{color_name}-950"
+  [100, 75, 50, 25, 0].each do |tp|
+    out << "#{color_name}-950/#{tp}"
+  end
+
   out
 end

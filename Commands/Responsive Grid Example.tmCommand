@@ -16,10 +16,15 @@ puts(&lt;&lt;-TEMP)
         &lt;script src="https://cdn.tailwindcss.com"&gt;&lt;/script&gt;
     &lt;/head&gt;
     &lt;body&gt;
-        &lt;div class="text-center p-10 bg-indigo-300"&gt;
-            &lt;h1 class="text-3xl font-bold text-teal-700"&gt;
-                ${1:Hello world!}${0}
-            &lt;/h1&gt;
+        &lt;div class="container mx-auto md:p-10 md:bg-zinc-500 p-4 bg-yellow-500"&gt;
+            &lt;div class="grid gap-1 md:gap-4 md:grid-cols-2"&gt;
+                &lt;div class="bg-zinc-200"&gt;
+                    &lt;h1 class="md:text-2xl md:font-semibold md:p-4 text-sky-500"&gt;${1:Column 1}&lt;/h1&gt;
+                &lt;/div&gt;
+                &lt;div class="bg-zinc-300"&gt;
+                    &lt;h1 class="md:text-2xl md:font-semibold md:p-4 text-sky-500"&gt;${2:Column 2}&lt;/h1&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
         &lt;/div&gt;
     &lt;/body&gt;
 &lt;/html&gt;
@@ -30,7 +35,7 @@ TEMP
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>name</key>
-	<string>Create Play CDN Template</string>
+	<string>Responsive Grid Example</string>
 	<key>outputCaret</key>
 	<string>interpolateByChar</string>
 	<key>outputFormat</key>
@@ -42,7 +47,7 @@ TEMP
 	<key>tabTrigger</key>
 	<string>temp</string>
 	<key>uuid</key>
-	<string>E75C60C1-1ACB-4117-99C9-8F36EC360C52</string>
+	<string>59E6DC5E-8B7F-444A-9CFA-21586897105A</string>
 	<key>version</key>
 	<integer>2</integer>
 </dict>

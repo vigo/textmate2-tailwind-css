@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:${1|active,autofill,checked,default,disabled,empty,enabled,even,first,first-of-type,focus,focus-visible,focus-within,hover,in-range,indeterminate,invalid,last,last-of-type,odd,only,only-of-type,out-of-range,placeholder-shown,read-only,required,target,valid,visited|}:}</string>
+	<key>name</key>
+	<string>Pseudo Classes</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>pse</string>
+	<key>uuid</key>
+	<string>2C0ACFD1-5386-42AF-9002-01FF28051524</string>
+</dict>
+</plist>

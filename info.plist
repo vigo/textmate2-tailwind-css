@@ -51,6 +51,8 @@
                     <string>------------------------------------</string>
                     <string>E75C60C1-1ACB-4117-99C9-8F36EC360C52</string>
                     <string>------------------------------------</string>
+                    <string>59E6DC5E-8B7F-444A-9CFA-21586897105A</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Templates</string>
@@ -774,7 +776,12 @@
             <dict>
                 <key>items</key>
                 <array>
+                    <string>------------------------------------</string>
                     <string>4603BB33-AD1E-454A-9A04-770C554359C4</string>
+                    <string>691BFB8B-CA87-4506-A34F-8A4564AF03A0</string>
+                    <string>------------------------------------</string>
+                    <string>2C0ACFD1-5386-42AF-9002-01FF28051524</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Utilities</string>

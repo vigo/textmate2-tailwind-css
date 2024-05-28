@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${2:${1|sm,md,lg,xl,2xl|}:}</string>
+	<string>${2:max-${1|sm,md,lg,xl,2xl|}:}</string>
 	<key>name</key>
-	<string>Responsive Variants</string>
+	<string>Responsive Variants - Targets</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>rv</string>
 	<key>uuid</key>
-	<string>4603BB33-AD1E-454A-9A04-770C554359C4</string>
+	<string>691BFB8B-CA87-4506-A34F-8A4564AF03A0</string>
 </dict>
 </plist>

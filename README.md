@@ -1,16 +1,20 @@
-![Version](https://img.shields.io/badge/version-0.0.0-orange.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.0.0-orange.svg?style=for-the-badge&logo=semver)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-3.4.3-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TextMate](https://img.shields.io/badge/textmate-2.0.23-green.svg?style=for-the-badge)
+![macOS](https://img.shields.io/badge/macos-sonoma-yellow.svg?style=for-the-badge&logo=Apple)
 
 # Tailwind CSS Bundle for TextMate2
 
-@wip
-
-Values are taken from https://tailwindcomponents.com/cheatsheet/ (v3.0.24)
+Tailwind CSS bundle for TextMate2. Tailwind CSS docs can be found [here][01].
 
 ---
 
 ## Installation
 
-@wip
+```bash
+cd "${HOME}/Library/Application\ Support/TextMate/Bundles/"
+git clone https://github.com/vigo/textmate2-tailwind-css.git TailwindCSS.tmbundle
+```
 
 ---
 
@@ -237,7 +241,9 @@ Type prefix and hit <kbd>⇥</kbd> (TAB).
 
 | Prefix | Description |
 |:---|:---|
-| `rv` | Responsive Variants such as `sm:`, `md:` ... |
+| `temp` | Create playground html templates |
+| `rv` | Responsive Variant classess |
+| `pse` | Pseudo classess |
 
 ---
 
@@ -269,3 +275,4 @@ This project is licensed under MIT
 ---
 
 [coc]: https://github.com/vigo/textmate2-tailwind-css/blob/main/CODE_OF_CONDUCT.md
+[01]: https://tailwindcss.com/docs/
