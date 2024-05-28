@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:transition${1|,-none,-all,-colors,-opacity,-shadow,-transform|}}</string>
+	<key>name</key>
+	<string>Transition Property</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tr-prop</string>
+	<key>uuid</key>
+	<string>6D24BECC-D64E-426B-9B02-EFE278B5E5B3</string>
+</dict>
+</plist>

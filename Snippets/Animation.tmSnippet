@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:animate-${1|none,spin,ping|}}</string>
+	<key>name</key>
+	<string>Animation</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tr-anim</string>
+	<key>uuid</key>
+	<string>7EB2F612-A948-4CA4-BB6E-BAECDA86DBE1</string>
+</dict>
+</plist>

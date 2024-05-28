@@ -736,7 +736,15 @@
             <dict>
                 <key>items</key>
                 <array>
-                    
+                    <string>------------------------------------</string>
+                    <string>6D24BECC-D64E-426B-9B02-EFE278B5E5B3</string>
+                    <string>01337F8E-8650-417A-8DCE-FEDF87BEA3FF</string>
+                    <string>------------------------------------</string>
+                    <string>C360C8D7-776C-493E-B702-A8113C724D43</string>
+                    <string>EC78AD6A-0282-448B-8E7F-A03B31384C04</string>
+                    <string>------------------------------------</string>
+                    <string>7EB2F612-A948-4CA4-BB6E-BAECDA86DBE1</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Transitions and Animation</string>

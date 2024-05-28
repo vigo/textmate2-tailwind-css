@@ -262,9 +262,10 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
-
+| `tr-prop` | Transition Property classes |
+| `tr-dur` | Transition Duration classes |
+| `tr-time` | Transition Timing Function classes |
+| `tr-anim` | Animation classes |
 ---
 
 ### Tables
