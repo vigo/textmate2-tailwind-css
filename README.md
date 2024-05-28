@@ -250,6 +250,11 @@ with `l-`, same applies to others...
 |:---|:---|
 | `bor-rad` | Border Radius classes |
 | `bor-w` | Border Width classes |
+| `bor-c` | Border Color classes |
+| `bor-st` | Border Style classes |
+| `bor-div` | Divide classes |
+| `bor-out` | Outline classes |
+| `bor-ring` | Ring classes |
 
 ---
 

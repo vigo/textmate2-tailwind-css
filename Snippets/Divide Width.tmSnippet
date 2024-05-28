@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${3:divide-${1|x,y|}${2|,-0,-2,-4,-8,-reverse|}}</string>
+	<key>name</key>
+	<string>Divide Width</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bor-div</string>
+	<key>uuid</key>
+	<string>8404C52E-1CED-4BD5-AE41-0811E2AA9E63</string>
+</dict>
+</plist>

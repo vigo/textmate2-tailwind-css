@@ -587,6 +587,16 @@
                     <string>------------------------------------</string>
                     <string>84CE125A-CEB9-44EE-80D0-1A485E3EC331</string>
                     <string>------------------------------------</string>
+                    <string>B8F43579-2DC6-4735-9EDE-BFDBB77F51ED</string>
+                    <string>------------------------------------</string>
+                    <string>C2B55D78-AA41-4B74-BC25-64C090DBB73D</string>
+                    <string>------------------------------------</string>
+                    <string>4BA9876B-A7F1-44F6-92AE-67EC55BE0F21</string>
+                    <string>------------------------------------</string>
+                    <string>A492FF8B-E8A0-41B2-A183-C54CBFBA769E</string>
+                    <string>------------------------------------</string>
+                    <string>9C5E5221-9B99-4FCB-BA09-2A78CB31BB68</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Borders</string>
@@ -643,6 +653,82 @@
                 <key>name</key>
                 <string>Border Width</string>
             </dict>
+            
+            <key>B8F43579-2DC6-4735-9EDE-BFDBB77F51ED</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>------------------------------------</string>
+                    <string>B9F99F6A-2798-4CFF-B8ED-310330770CF1</string>
+                    <string>DDBF9E65-174B-413B-AE7C-AB08A863E7A5</string>
+                    <string>------------------------------------</string>
+                    <string>9FAC4A95-0E46-4517-A0A2-81FD864E78F7</string>
+                    <string>F4789D01-20EF-48AE-B919-3F8F7E7182D9</string>
+                    <string>------------------------------------</string>
+                    <string>CB616080-10F6-4181-BEE7-83760EB45EA0</string>
+                    <string>C0F1377F-63D4-413D-9703-E925BDEF49B2</string>
+                    <string>BF9F8CDF-44F6-4BAA-992C-C01A77A461B8</string>
+                    <string>BDE064F9-07D7-4231-8AED-14B768834F4E</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>Border Color</string>
+            </dict>
+            
+            <key>4BA9876B-A7F1-44F6-92AE-67EC55BE0F21</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>------------------------------------</string>
+                    <string>8404C52E-1CED-4BD5-AE41-0811E2AA9E63</string>
+                    <string>------------------------------------</string>
+                    <string>353C5472-81A1-4D8D-B60C-172E5D6D1F93</string>
+                    <string>DBB12907-C9F4-4F29-A65E-6D9BDA234E2E</string>
+                    <string>------------------------------------</string>
+                    <string>45668D49-E76E-4A50-B03C-84F4A9566D05</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>Divide</string>
+            </dict>
+            
+            <key>A492FF8B-E8A0-41B2-A183-C54CBFBA769E</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>------------------------------------</string>
+                    <string>B176A153-F618-4541-A35E-B959AC9D1B28</string>
+                    <string>------------------------------------</string>
+                    <string>0B9CEEB4-203A-4D61-AEFF-AF3D79994D8F</string>
+                    <string>C3A733E6-A505-4E43-AA83-37796616F305</string>
+                    <string>------------------------------------</string>
+                    <string>CD292E8E-301E-46E2-A6F2-27074767666B</string>
+                    <string>79C193D3-7385-424E-9593-28349B6F47E8</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>Outline</string>
+            </dict>
+            
+            <key>9C5E5221-9B99-4FCB-BA09-2A78CB31BB68</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>------------------------------------</string>
+                    <string>DEF531DB-2503-48EE-81DC-0B1FC07BAC26</string>
+                    <string>------------------------------------</string>
+                    <string>8311144C-F7C0-4F9A-B108-346A4C66FA36</string>
+                    <string>35526BE6-38EE-44BA-85FE-3871108CF8F6</string>
+                    <string>------------------------------------</string>
+                    <string>0FAA381A-723E-4083-A980-73415EDF9D2D</string>
+                    <string>702BB498-315F-4D13-B439-25ED162AEA8F</string>
+                    <string>E73912DF-F674-40F5-AF48-3B33EA133B03</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>Ring</string>
+            </dict>
+            
             <!-- Borders -->
 
             <!-- Transitions and Animation -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:divide-${1|inherit,current,transparent,black,white|}}</string>
+	<key>name</key>
+	<string>Divide Color - Basics</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bor-div</string>
+	<key>uuid</key>
+	<string>353C5472-81A1-4D8D-B60C-172E5D6D1F93</string>
+</dict>
+</plist>

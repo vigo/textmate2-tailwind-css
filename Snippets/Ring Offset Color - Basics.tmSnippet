@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:ring-offset-${1|inherit,current,transparent,black,white|}}</string>
+	<key>name</key>
+	<string>Ring Offset Color - Basics</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bor-ring</string>
+	<key>uuid</key>
+	<string>702BB498-315F-4D13-B439-25ED162AEA8F</string>
+</dict>
+</plist>
