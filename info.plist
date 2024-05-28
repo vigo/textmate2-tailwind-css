@@ -18,28 +18,25 @@
         <key>items</key>
         <array>
             <string>------------------------------------</string>
-            <string>1b3cb4ab-b193-45b0-8e5f-e1516de9720f</string><!-- Templates -->
+            <string>1B3CB4AB-B193-45B0-8E5F-E1516DE9720F</string><!-- Templates -->
             <string>------------------------------------</string>
-            <string>1e7f88c3-aa9a-469a-b1cf-28b160db18f6</string><!-- Layout -->
-            <string>48574416-2a9e-41a0-b3f8-472596622e5e</string><!-- Sizing -->
-            <string>9434b2db-b395-4f46-8b53-b3920a722b5c</string><!-- Transforms -->
-            <string>d8e54ec2-15c3-441c-bb4b-8dafe74627ef</string><!-- Effects -->
+            <string>1E7F88C3-AA9A-469A-B1CF-28B160DB18F6</string><!-- Layout -->
+            <string>A0B03394-18D5-4BDD-A837-7E11042C9B3C</string><!-- Flex and Grid -->
+            <string>C645187A-927D-4D59-84AF-70E6CB63710B</string><!-- Spacing -->
+            <string>48574416-2A9E-41A0-B3F8-472596622E5E</string><!-- Sizing -->
+            <string>8B062819-6376-40B4-88EA-35B52F7D7148</string><!-- Typography -->
+            <string>64CF07E4-DAC4-413C-8148-E6935C215B55</string><!-- Backgrounds -->
+            <string>41C8FF82-547D-4D99-9DB3-9A141E507EAB</string><!-- Borders -->
+            <string>D8E54EC2-15C3-441C-BB4B-8DAFE74627EF</string><!-- Effects -->
+            <string>591D209C-3396-4572-95C4-A100E2B8FB6D</string><!-- Filters -->
+            <string>23A69011-A945-4866-8715-908F231A5B16</string><!-- Tables -->
+            <string>2F77DD3A-3DE9-4E78-9493-4BDDC66FBC0B</string><!-- Transitions and Animation -->
+            <string>9434B2DB-B395-4F46-8B53-B3920A722B5C</string><!-- Transforms -->
+            <string>D72E9FE7-5F8D-4243-AB82-EB411634202C</string><!-- Interactivity -->
+            <string>130737C7-A171-487C-BA37-8685A15D4311</string><!-- SVG -->
+            <string>4EA546B5-9CB3-4386-960E-BE8134D73F9D</string><!-- Accessibility -->
             <string>------------------------------------</string>
-            <string>c645187a-927d-4d59-84af-70e6cb63710b</string><!-- Spacing -->
-            <string>8b062819-6376-40b4-88ea-35b52f7d7148</string><!-- Typography -->
-            <string>d72e9fe7-5f8d-4243-ab82-eb411634202c</string><!-- Interactivity -->
-            <string>591d209c-3396-4572-95c4-a100e2b8fb6d</string><!-- Filters -->
-            <string>------------------------------------</string>
-            <string>a0b03394-18d5-4bdd-a837-7e11042c9b3c</string><!-- Flex and Grid -->
-            <string>64cf07e4-dac4-413c-8148-e6935c215b55</string><!-- Backgrounds -->
-            <string>130737c7-a171-487c-ba37-8685a15d4311</string><!-- SVG -->
-            <string>4ea546b5-9cb3-4386-960e-be8134d73f9d</string><!-- Accessibility -->
-            <string>------------------------------------</string>
-            <string>41c8ff82-547d-4d99-9db3-9a141e507eab</string><!-- Borders -->
-            <string>2f77dd3a-3de9-4e78-9493-4bddc66fbc0b</string><!-- Transitions and Animation -->
-            <string>23a69011-a945-4866-8715-908f231a5b16</string><!-- Tables -->
-            <string>------------------------------------</string>
-            <string>f0451578-a6fa-409c-85b9-8dee7a515d74</string><!-- Utilities -->
+            <string>F0451578-A6FA-409C-85B9-8DEE7A515D74</string><!-- Utilities -->
             <string>------------------------------------</string>
         </array>
         
@@ -359,8 +356,8 @@
                     <string>A0DA275A-FCEA-4758-8B19-2FC6E6DCF09E</string>
                     <string>8E30A51C-B549-444C-8EA8-52955762B049</string>
                     <string>F999FF29-3E1B-49C0-8C86-474CE33CC081</string>
-                    <string>------------------------------------</string>
                     <string>433452D5-7A99-45F5-A570-5312DB09A6C4</string>
+                    <string>------------------------------------</string>
                     <string>09D69B01-DA2D-4708-9D20-B621003BA12E</string>
                     <string>------------------------------------</string>
                     <string>AF0FEC1B-B89F-41F4-ADED-8C34594E6334</string>

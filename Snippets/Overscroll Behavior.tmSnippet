@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>l-over</string>
+	<string>owf</string>
 	<key>uuid</key>
 	<string>49AAF2BC-16FC-4FA6-A4AD-DDE489FB4C2B</string>
 </dict>

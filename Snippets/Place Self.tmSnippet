@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>flg-ps</string>
+	<string>place-s</string>
 	<key>uuid</key>
 	<string>EF4E8D80-F0BD-40D4-93CB-98B361FB5AC1</string>
 </dict>

@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>tg-lis</string>
+	<string>list</string>
 	<key>uuid</key>
 	<string>3CD78B25-DAB0-4359-9252-C39C5B98ACD7</string>
 </dict>

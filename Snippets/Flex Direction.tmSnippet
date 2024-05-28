@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>flg-fld</string>
+	<string>flex-d</string>
 	<key>uuid</key>
 	<string>E2E0FE1C-1187-479D-AF43-A7B37F4BCFB6</string>
 </dict>

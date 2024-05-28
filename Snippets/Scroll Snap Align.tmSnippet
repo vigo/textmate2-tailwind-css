@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>i-scrsnap</string>
+	<string>scroll</string>
 	<key>uuid</key>
 	<string>433452D5-7A99-45F5-A570-5312DB09A6C4</string>
 </dict>

@@ -11,12 +11,10 @@ require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
 
 values = get_values("mb")
 
-out = []
+out = ["mb-auto", "mb-px"]
 values.each do |data|
   out &lt;&lt; data[:name]
 end
-out &lt;&lt; "mb-px"
-out &lt;&lt; "mb-auto"
 
 printf("${2:${1|%s|}}", out.join(","))
 </string>
@@ -35,7 +33,7 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>sp-mb</string>
+	<string>mar</string>
 	<key>uuid</key>
 	<string>7d687dff-f0c2-4a55-8780-324c605fcd76</string>
 	<key>version</key>

@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>f-backd</string>
+	<string>backd</string>
 	<key>uuid</key>
 	<string>6ADAC8B4-6383-45EA-AFBF-98AC8F8AF632</string>
 </dict>

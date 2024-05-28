@@ -34,7 +34,7 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>i-scrm</string>
+	<string>scroll</string>
 	<key>uuid</key>
 	<string>2798650b-7bda-4048-b2fa-246087f0f495</string>
 	<key>version</key>

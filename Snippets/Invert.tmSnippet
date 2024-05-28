@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>f-inv</string>
+	<string>inv</string>
 	<key>uuid</key>
 	<string>23277013-53D7-4529-9D71-3593B2D0A6E3</string>
 </dict>

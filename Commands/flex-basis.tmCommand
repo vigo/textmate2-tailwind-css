@@ -62,7 +62,7 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>flg-flb</string>
+	<string>flex-b</string>
 	<key>uuid</key>
 	<string>8a72d93d-596c-40dd-a9da-2f6e74f359a5</string>
 	<key>version</key>

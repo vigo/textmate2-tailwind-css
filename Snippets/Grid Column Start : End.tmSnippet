@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>flg-gcol</string>
+	<string>grid-c</string>
 	<key>uuid</key>
 	<string>4F4B5333-FBE8-4687-92A4-122FD2A2B7B2</string>
 </dict>

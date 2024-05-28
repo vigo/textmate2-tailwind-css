@@ -40,7 +40,7 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>l-inset</string>
+	<string>inset</string>
 	<key>uuid</key>
 	<string>31cbf957-1f0a-4076-b864-f760b851313a</string>
 	<key>version</key>

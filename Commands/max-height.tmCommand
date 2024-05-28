@@ -11,18 +11,17 @@ require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
 
 values = get_values("max-h")
 
-out = []
-values.each do |data|
-  out &lt;&lt; data[:name]
-end
-out += [
-  "max-h-px", 
+out = [
   "max-h-full",
   "max-h-screen",
   "max-h-min",
   "max-h-max",
   "max-h-fit",
+  "max-h-px", 
 ]
+values.each do |data|
+  out &lt;&lt; data[:name]
+end
 
 printf("${2:${1|%s|}}", out.join(","))
 </string>
@@ -41,7 +40,7 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>s-h</string>
+	<string>he</string>
 	<key>uuid</key>
 	<string>fbac3900-83f8-40cf-a157-ac8ba608720a</string>
 	<key>version</key>

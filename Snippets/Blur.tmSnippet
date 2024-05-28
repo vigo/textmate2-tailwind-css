@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>f-blur</string>
+	<string>blur</string>
 	<key>uuid</key>
 	<string>624F32E3-2EB7-405B-BDF8-A7B79B73418B</string>
 </dict>

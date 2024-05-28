@@ -34,7 +34,7 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>flg-gap</string>
+	<string>gap</string>
 	<key>uuid</key>
 	<string>35d56926-0cc1-4ba6-9cc3-d2070da069eb</string>
 	<key>version</key>

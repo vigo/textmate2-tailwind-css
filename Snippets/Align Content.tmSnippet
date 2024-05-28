@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>flg-ac</string>
+	<string>cont-a</string>
 	<key>uuid</key>
 	<string>7E60746B-205D-45CA-818C-5FCD5372A9E7</string>
 </dict>
