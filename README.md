@@ -248,8 +248,8 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `bor-rad` | Border Radius classes |
+| `bor-w` | Border Width classes |
 
 ---
 

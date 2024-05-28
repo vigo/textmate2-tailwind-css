@@ -582,10 +582,66 @@
             <dict>
                 <key>items</key>
                 <array>
-                    
+                    <string>------------------------------------</string>
+                    <string>09FF68C0-9691-4E8B-B304-4956C6AFB21D</string>
+                    <string>------------------------------------</string>
+                    <string>84CE125A-CEB9-44EE-80D0-1A485E3EC331</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Borders</string>
+            </dict>
+            
+            <key>09FF68C0-9691-4E8B-B304-4956C6AFB21D</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>40672178-8545-4EDA-9649-324531CB653F</string>
+                    <string>------------------------------------</string>
+                    <string>2F2A2ECB-8E54-492D-AE60-73DB91486A83</string>
+                    <string>EFFDFFA4-62FE-4534-A838-445F3E9399A0</string>
+                    <string>------------------------------------</string>
+                    <string>27DE5BA9-F77E-4304-8E73-26129C98CCBE</string>
+                    <string>040AAC2A-0F75-4E54-B198-E7FF9CBD9B83</string>
+                    <string>51FC97FB-71D9-4CBF-A036-408C7503E5EF</string>
+                    <string>61C199A6-AAED-4D77-8FAE-692525A6B43A</string>
+                    <string>------------------------------------</string>
+                    <string>D3CEF38A-3C41-46BB-B3AB-B9DCC04AA7E7</string>
+                    <string>45749890-F54C-42E2-AD13-2BF6160CC452</string>
+                    <string>454B4373-D783-46C5-937B-AEEFB3E0AC73</string>
+                    <string>8338DD1C-B30E-41C0-97AF-AB8616F1DEF1</string>
+                    <string>------------------------------------</string>
+                    <string>8C49BE21-C5B0-4CD9-92AE-2D3E4F7CC152</string>
+                    <string>B5B29FB4-7476-415F-BF69-93B61BAC00F0</string>
+                    <string>91839D4C-6E77-42E2-BA51-56DF0E673E9A</string>
+                    <string>E01044C6-BAF0-4E70-8CA8-71786730B5C3</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>Border Radius</string>
+            </dict>
+            
+            <key>84CE125A-CEB9-44EE-80D0-1A485E3EC331</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>------------------------------------</string>
+                    <string>7C165C7F-025C-48CB-B7B8-500BAAF795EE</string>
+                    <string>------------------------------------</string>
+                    <string>EF416B3E-42E5-434B-A98E-6282F3607AFE</string>
+                    <string>1792A34B-0E5D-4E42-8145-6BD1E1E92CD7</string>
+                    <string>------------------------------------</string>
+                    <string>EB64F14F-74FA-4D51-BD2D-1C75F818DE4A</string>
+                    <string>874A8BCE-B3F4-496E-8305-950B711BC3F7</string>
+                    <string>------------------------------------</string>
+                    <string>650C5665-23A0-49BB-A48D-1FBE4640E87C</string>
+                    <string>B7DF6072-60F9-4CC0-A14E-5B453F8F202F</string>
+                    <string>174A48D6-2185-4FC0-BECC-C6F1EC683646</string>
+                    <string>C50E4404-C071-46D6-A18B-87162AA9FB73</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>Border Width</string>
             </dict>
             <!-- Borders -->
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:rounded-b${1|-none,-sm,,-md,-lg,-xl,-2xl,-3xl,-full|}}</string>
+	<key>name</key>
+	<string>Border Radius - B</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bor-rad</string>
+	<key>uuid</key>
+	<string>51fc97fb-71d9-4cbf-a036-408c7503e5ef</string>
+</dict>
+</plist>
