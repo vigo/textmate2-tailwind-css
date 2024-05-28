@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:from-${1|inherit,current,transparent,black,white|}}</string>
+	<key>name</key>
+	<string>Gradient Color Stops - Basics</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bg-gs</string>
+	<key>uuid</key>
+	<string>1D071AE1-B868-44A3-9D23-8635B658CA9A</string>
+</dict>
+</plist>

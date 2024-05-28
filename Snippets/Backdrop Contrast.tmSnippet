@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:backdrop-contrast-${1|0,50,100,150,200|}}</string>
+	<key>name</key>
+	<string>Backdrop Contrast</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>backd</string>
+	<key>uuid</key>
+	<string>539CA341-7763-4E06-9F25-39EE859CF103</string>
+</dict>
+</plist>

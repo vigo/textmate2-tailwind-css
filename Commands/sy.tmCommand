@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby18 -wKU
+
+require ENV["TM_BUNDLE_SUPPORT"] + "/tailwindcss"
+
+values = get_values("space-y")
+
+out = ["space-y-reverse", "space-y-px"]
+values.each do |data|
+  out &lt;&lt; data[:name]
+end
+
+printf("${2:${1|%s|}}", out.join(","))
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>space-y</string>
+	<key>outputCaret</key>
+	<string>interpolateByChar</string>
+	<key>outputFormat</key>
+	<string>snippet</string>
+	<key>outputLocation</key>
+	<string>atCaret</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>spa</string>
+	<key>uuid</key>
+	<string>297dd8f1-bd2a-4e92-92d8-312626fb4ae5</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

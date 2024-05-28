@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:backdrop-hue-rotate-${1|0,15,30,60,90,180|}}</string>
+	<key>name</key>
+	<string>Backdrop Hue Rotate</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>backd</string>
+	<key>uuid</key>
+	<string>47023843-72E1-4FAE-9E8F-592DB6D078D1</string>
+</dict>
+</plist>

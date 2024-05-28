@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:invert${1|-0,|}}</string>
+	<key>name</key>
+	<string>Invert</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>inv</string>
+	<key>uuid</key>
+	<string>23277013-53D7-4529-9D71-3593B2D0A6E3</string>
+</dict>
+</plist>

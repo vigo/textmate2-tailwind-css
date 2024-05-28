@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:pointer-events-${1|none,auto|}}</string>
+	<key>name</key>
+	<string>Pointer Events</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>poi</string>
+	<key>uuid</key>
+	<string>EC43F665-9625-43D7-B2DB-C05ADD78993C</string>
+</dict>
+</plist>

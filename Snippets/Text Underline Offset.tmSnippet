@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:underline-offset-${1|auto,from-font,0,1,2,4,8|}}</string>
+	<key>name</key>
+	<string>Text Underline Offset</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>text-u</string>
+	<key>uuid</key>
+	<string>51BDC0E6-12D6-4110-B3EA-0D91213EF68D</string>
+</dict>
+</plist>

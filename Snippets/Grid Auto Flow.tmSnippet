@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:grid-flow-${1|row,col,dense,row-dense,col-dense|}}</string>
+	<key>name</key>
+	<string>Grid Auto Flow</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>grid-f</string>
+	<key>uuid</key>
+	<string>FC3D78E2-C756-4A3B-AB2D-C0A689E37C76</string>
+</dict>
+</plist>

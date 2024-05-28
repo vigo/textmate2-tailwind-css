@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:order-${1|1,2,3,4,5,6,7,8|}}</string>
+	<key>name</key>
+	<string>Flex Order</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>flex-o</string>
+	<key>uuid</key>
+	<string>1A90D82D-4BB4-401C-837B-D299A6910784</string>
+</dict>
+</plist>

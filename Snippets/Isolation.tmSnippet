@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:${1|isolate,isolate-auto|}}</string>
+	<key>name</key>
+	<string>Isolation</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>iso</string>
+	<key>uuid</key>
+	<string>36A19965-14BE-4751-B00B-72C92A5EDF16</string>
+</dict>
+</plist>

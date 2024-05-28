@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:forced-color-adjust-${1|auto,none|}}</string>
+	<key>name</key>
+	<string>Forced Color Adjust</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>acc-for</string>
+	<key>uuid</key>
+	<string>B2FB7669-E79C-4C45-B737-FAB49D3F59CE</string>
+</dict>
+</plist>

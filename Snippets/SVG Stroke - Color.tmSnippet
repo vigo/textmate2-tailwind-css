@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${3:stroke-${1|slate,gray,zinc,neutral,stone,red,orange,amber,yellow,lime,green,emerald,teal,cyan,sky,blue,indigo,violet,purple,fuchsia,pink,rose|}-${2|50,100,200,300,400,500,600,700,800,900,950|}}</string>
+	<key>name</key>
+	<string>SVG Stroke - Color</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>svg-stroke</string>
+	<key>uuid</key>
+	<string>E877A5E4-9BED-43F9-BD6F-5F021FD5232E</string>
+</dict>
+</plist>

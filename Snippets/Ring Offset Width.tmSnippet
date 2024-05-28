@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:ring-offset-${1|0,1,2,4,8|}}</string>
+	<key>name</key>
+	<string>Ring Offset Width</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>bor-ring</string>
+	<key>uuid</key>
+	<string>0FAA381A-723E-4083-A980-73415EDF9D2D</string>
+</dict>
+</plist>

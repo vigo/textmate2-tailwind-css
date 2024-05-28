@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:overscroll-${1|auto,y-auto,x-auto,contain,y-contain,x-contain,none,y-none,x-none|}}</string>
+	<key>name</key>
+	<string>Overscroll Behavior</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>owf</string>
+	<key>uuid</key>
+	<string>49AAF2BC-16FC-4FA6-A4AD-DDE489FB4C2B</string>
+</dict>
+</plist>

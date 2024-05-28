@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1|grow,grow-0,shrink,shrink-0|}</string>
+	<key>name</key>
+	<string>Flex Grow / Shrink</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>flex-gs</string>
+	<key>uuid</key>
+	<string>69A1FBA9-C81A-4884-AF97-12948F8A9A96</string>
+</dict>
+</plist>

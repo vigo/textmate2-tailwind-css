@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${3:skew-${1|x,y|}-${2|0,1,2,3,6,12|}}</string>
+	<key>name</key>
+	<string>Skew X/Y</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>t-ske</string>
+	<key>uuid</key>
+	<string>E442990B-AAB8-496B-9F74-173EC9CA1ACE</string>
+</dict>
+</plist>

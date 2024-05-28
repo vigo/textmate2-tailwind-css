@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:justify-${1|normal,start,end,center,between,around,evenly,stretch|}}</string>
+	<key>name</key>
+	<string>Justify Content</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>jus-c</string>
+	<key>uuid</key>
+	<string>94547957-1922-456E-B7A7-E89A8AB2A8BD</string>
+</dict>
+</plist>

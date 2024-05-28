@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:${1|tracking-tighter,tracking-tight,tracking-normal,tracking-wide,tracking-wider,tracking-widest|}}</string>
+	<key>name</key>
+	<string>Letter Spacing</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>let</string>
+	<key>uuid</key>
+	<string>3FEE3160-479E-43AE-9328-736B3D549989</string>
+</dict>
+</plist>

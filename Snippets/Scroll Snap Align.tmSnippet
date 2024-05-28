@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:snap-${1|star,end,center,align-none,normal,always,none,x,y,both,mandatory,proximity|}}</string>
+	<key>name</key>
+	<string>Scroll Snap Align / Stop / Type</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>scroll</string>
+	<key>uuid</key>
+	<string>433452D5-7A99-45F5-A570-5312DB09A6C4</string>
+</dict>
+</plist>

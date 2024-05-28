@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby18 -wKU
+
+puts(&lt;&lt;-TEMP)
+&lt;!doctype html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="UTF-8"&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+        &lt;script src="https://cdn.tailwindcss.com"&gt;&lt;/script&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;div class="container mx-auto md:p-10 md:bg-zinc-500 p-4 bg-yellow-500"&gt;
+            &lt;div class="grid gap-1 md:gap-4 md:grid-cols-2"&gt;
+                &lt;div class="bg-zinc-200"&gt;
+                    &lt;h1 class="md:text-2xl md:font-semibold md:p-4 text-sky-500"&gt;${1:Column 1}&lt;/h1&gt;
+                &lt;/div&gt;
+                &lt;div class="bg-zinc-300"&gt;
+                    &lt;h1 class="md:text-2xl md:font-semibold md:p-4 text-sky-500"&gt;${2:Column 2}&lt;/h1&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+TEMP
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>Responsive Grid Example</string>
+	<key>outputCaret</key>
+	<string>interpolateByChar</string>
+	<key>outputFormat</key>
+	<string>snippet</string>
+	<key>outputLocation</key>
+	<string>atCaret</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>temp</string>
+	<key>uuid</key>
+	<string>59E6DC5E-8B7F-444A-9CFA-21586897105A</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

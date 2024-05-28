@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${2:sepia${1|-0,|}}</string>
+	<key>name</key>
+	<string>Sepia</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>sep</string>
+	<key>uuid</key>
+	<string>314819DC-787C-494A-AE73-7A3CDF0C9C6B</string>
+</dict>
+</plist>
