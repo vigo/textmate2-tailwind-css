@@ -756,7 +756,16 @@
             <dict>
                 <key>items</key>
                 <array>
-                    
+                    <string>------------------------------------</string>
+                    <string>8F3A5961-6A62-4F94-A8CA-35E2037A3279</string>
+                    <string>------------------------------------</string>
+                    <string>F81F644E-4275-4960-94E9-1AB5B13BF2FC</string>
+                    <string>3E76CD02-C6B8-454C-8DA0-3D083BC65294</string>
+                    <string>829E6A51-09C0-4432-865A-DB9D369365C7</string>
+                    <string>------------------------------------</string>
+                    <string>6ECBAB84-767C-4B8A-A89B-9C2252B46C91</string>
+                    <string>394B96F7-A55C-4D2B-9B72-3E85C804A917</string>
+                    <string>------------------------------------</string>
                 </array>
                 <key>name</key>
                 <string>Tables</string>

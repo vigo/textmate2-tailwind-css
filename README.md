@@ -272,8 +272,7 @@ with `l-`, same applies to others...
 
 | Prefix | Description |
 |:---|:---|
-
-@wip
+| `tbl` | Table classes |
 
 ---
 
