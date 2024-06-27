@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Text Decoration Thickness</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>text-d</string>
 	<key>uuid</key>

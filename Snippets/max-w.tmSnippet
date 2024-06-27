@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>max-w (max-width)</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>wi</string>
 	<key>uuid</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>SVG Stroke - Width</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>svg-stroke</string>
 	<key>uuid</key>

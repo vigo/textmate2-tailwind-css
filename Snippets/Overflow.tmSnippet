@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Overflow</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>owf</string>
 	<key>uuid</key>

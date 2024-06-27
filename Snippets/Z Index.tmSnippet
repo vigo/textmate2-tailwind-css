@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Z Index</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>zind</string>
 	<key>uuid</key>

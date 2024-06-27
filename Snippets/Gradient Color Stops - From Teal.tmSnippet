@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Gradient Color Stops - From Teal</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>bg-gs</string>
 	<key>uuid</key>

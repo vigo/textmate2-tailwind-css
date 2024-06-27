@@ -32,7 +32,7 @@ printf("${2:${1|%s|}}", out.join(","))
 	<key>outputLocation</key>
 	<string>atCaret</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>text-i</string>
 	<key>uuid</key>

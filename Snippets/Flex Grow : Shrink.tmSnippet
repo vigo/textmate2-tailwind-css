@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Flex Grow / Shrink</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>flex-gs</string>
 	<key>uuid</key>

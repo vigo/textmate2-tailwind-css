@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Grid Row Start / End</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>grid-r</string>
 	<key>uuid</key>

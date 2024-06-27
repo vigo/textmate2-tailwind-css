@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Touch Action</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>tou</string>
 	<key>uuid</key>

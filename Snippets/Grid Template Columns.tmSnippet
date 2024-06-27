@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Grid Template Columns</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>grid-c</string>
 	<key>uuid</key>

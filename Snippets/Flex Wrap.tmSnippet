@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Flex Wrap</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>flex-w</string>
 	<key>uuid</key>

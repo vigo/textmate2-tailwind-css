@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Flex</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>flex</string>
 	<key>uuid</key>

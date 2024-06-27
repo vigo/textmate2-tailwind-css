@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Font Smoothing</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>font</string>
 	<key>uuid</key>

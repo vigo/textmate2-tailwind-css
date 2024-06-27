@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Place Items</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>place-i</string>
 	<key>uuid</key>

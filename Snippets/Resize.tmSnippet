@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Resize</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>res</string>
 	<key>uuid</key>

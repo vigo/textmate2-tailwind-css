@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Scroll Behavior</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>i-scrb</string>
 	<key>uuid</key>

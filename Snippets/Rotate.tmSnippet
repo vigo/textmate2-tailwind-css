@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Rotate</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>t-rot</string>
 	<key>uuid</key>

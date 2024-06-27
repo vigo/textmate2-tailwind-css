@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Border Color - B</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>bor-c</string>
 	<key>uuid</key>

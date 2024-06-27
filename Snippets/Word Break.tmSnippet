@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Word Break</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>word</string>
 	<key>uuid</key>

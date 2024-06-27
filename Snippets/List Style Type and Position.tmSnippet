@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>List Style Type and Position</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>list</string>
 	<key>uuid</key>

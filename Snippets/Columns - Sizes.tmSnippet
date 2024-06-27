@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Columns - Sizes</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>col</string>
 	<key>uuid</key>

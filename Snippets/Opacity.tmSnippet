@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Opacity</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>fx-o</string>
 	<key>uuid</key>

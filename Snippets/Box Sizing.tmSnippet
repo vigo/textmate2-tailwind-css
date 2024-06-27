@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Box Sizing</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>box</string>
 	<key>uuid</key>

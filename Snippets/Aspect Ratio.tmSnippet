@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Aspect Ratio</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>ar</string>
 	<key>uuid</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Scroll Snap Align / Stop / Type</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>scroll</string>
 	<key>uuid</key>

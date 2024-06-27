@@ -30,7 +30,7 @@ printf("${4:${1|,-|}${2|top,right,bottom,left|}-${3|%s|}}", out.join(","))</stri
 	<key>outputLocation</key>
 	<string>atCaret</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>inset</string>
 	<key>uuid</key>

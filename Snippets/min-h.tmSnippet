@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>min-h (min-height)</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>he</string>
 	<key>uuid</key>

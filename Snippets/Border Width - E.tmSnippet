@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Border Width - E</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>bor-w</string>
 	<key>uuid</key>

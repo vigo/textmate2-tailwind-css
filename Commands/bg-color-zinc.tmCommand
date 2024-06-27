@@ -26,7 +26,7 @@ printf("${2:bg-${1|%s|}}", values.join(","))
 	<key>outputLocation</key>
 	<string>atCaret</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html,source.css</string>
 	<key>tabTrigger</key>
 	<string>bg-c</string>
 	<key>uuid</key>
